@@ -152,35 +152,35 @@ January 2014 - May 2014
 
 ## Awards
 
-Eagle Scout Award, Spring 2012
-NASA Space Technology Graduate Research Opportunity (NSTGRO) Fellowship, Fall 2023 – Fall 2027
-Thomas W. Folger Fellowship, Fall 2021 – Spring 2022
-Mars 2020 SHA Z-Stage Testing: For completion of the SHA z-stage Tiger Team investigation, development of new in-flight measurement methods, and validation of these methods in test, Fall 2021
-Distinguished Scholar Award, Spring 2019
-Outstanding NASA JSC Co-op Award, Summer 2017
-Lockheed Martin Corporate Award, Summer 2013, Summer 2014
-Crystal Yvette Miller Award, Summer 2013, Summer 2014
-AIAA Liquid Propulsion Award, Summer 2015
-AIAA Outstanding Student Award, Summer 2014
+• Eagle Scout Award, Spring 2012
+• NASA Space Technology Graduate Research Opportunity (NSTGRO) Fellowship, Fall 2023 – Fall 2027
+• Thomas W. Folger Fellowship, Fall 2021 – Spring 2022
+• Mars 2020 SHA Z-Stage Testing: For completion of the SHA z-stage Tiger Team investigation, development of new in-flight measurement methods, and validation of these methods in test, Fall 2021
+• Distinguished Scholar Award, Spring 2019
+• Outstanding NASA JSC Co-op Award, Summer 2017
+• Lockheed Martin Corporate Award, Summer 2013, Summer 2014
+• Crystal Yvette Miller Award, Summer 2013, Summer 2014
+• AIAA Liquid Propulsion Award, Summer 2015
+• AIAA Outstanding Student Award, Summer 2014
 
 ## Extracurricular Activities
 
-President, American Institute of Aeronautics and Astronautics (AIAA), 2013-2015 
-Secretary, Society of Hispanic Professional Engineers (SHPE), 2013-2015
-Active Member, Tau Beta Pi Engineering Honor Society (TBP), 2016-2019
-Active Member, Sigma Gamma Tau Aerospace Engineering Honor Society (SGT), 2016-2019 
-Active Member, Longhorn Rocketry Association (LRA), 2015-2018 
-Mentor, FIRST Robotics (Watertown HS), 2021 – Present
-Team Co-Lead, Aero Mavs, 2012-2015
-Director, Pathways Agency Cross-Center Connections (PAXC), 2016
-President/Chapter Founder, National Space Society (NSS), 2013-2015
-Active Member, INROADS, 2013-2015
+• President, American Institute of Aeronautics and Astronautics (AIAA), 2013-2015 
+• Secretary, Society of Hispanic Professional Engineers (SHPE), 2013-2015
+• Active Member, Tau Beta Pi Engineering Honor Society (TBP), 2016-2019
+• Active Member, Sigma Gamma Tau Aerospace Engineering Honor Society (SGT), 2016-2019 
+• Active Member, Longhorn Rocketry Association (LRA), 2015-2018 
+• Mentor, FIRST Robotics (Watertown HS), 2021 – Present
+• Team Co-Lead, Aero Mavs, 2012-2015
+• Director, Pathways Agency Cross-Center Connections (PAXC), 2016
+• President/Chapter Founder, National Space Society (NSS), 2013-2015
+• Active Member, INROADS, 2013-2015
 
 ## Certifications
 
-NAUI SCUBA Open Water Certification, Summer 2015
-International Space Station (ISS) Commanding Certification, Fall 2014
-Lean Six Sigma Green Belt Certification, Summer 2014
-National Association of Rocketry (NAR) Level 2 Certification, Spring 2017
-NASA Cryogenics Handling Certification, Spring 2014
-NASA Pressure Vessel Systems Certification, Spring 2014
+• NAUI SCUBA Open Water Certification, Summer 2015
+• International Space Station (ISS) Commanding Certification, Fall 2014
+• Lean Six Sigma Green Belt Certification, Summer 2014
+• National Association of Rocketry (NAR) Level 2 Certification, Spring 2017
+• NASA Cryogenics Handling Certification, Spring 2014
+• NASA Pressure Vessel Systems Certification, Spring 2014
