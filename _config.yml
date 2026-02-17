@@ -24,8 +24,7 @@ name: Erik Ballesteros
 description: >- # this means to ignore newlines until "baseurl:"
   Robotics Research | MIT
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "TheFalcoGuy/TheFalcoGuy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://TheFalcoGuy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  TheFalcoGuy
 author:
  name: Erik Ballesteros
@@ -33,7 +32,7 @@ author:
  bio: PhD Student in Robotics at MIT
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
