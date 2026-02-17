@@ -17,7 +17,8 @@ collaborator_gallery:
   - url: https://darbelofflab.mit.edu
     image_path: /assets/images/Logos/d-lab_logo_full.png
     alt: "d-Lab Logo"
-  - image_path: /assets/images/Logos/HSL_Logo.png
+  - url: https://hsl.mit.edu
+    image_path: /assets/images/Logos/HSL_Logo.png
     alt: "HSL Logo"
   - url: https://www.nasa.gov
     image_path: /assets/images/Logos/NASA_Logo.png
@@ -25,7 +26,8 @@ collaborator_gallery:
   - url: https://www.jpl.nasa.gov
     image_path: /assets/images/Logos/JPL_Logo.png
     alt: "JPL Logo"
-  - image_path: /assets/images/Logos/JSC_ER_Logo.png
+  - url: https://www.nasa.gov/johnson/
+    image_path: /assets/images/Logos/JSC_ER_Logo.png
     alt: "JSC EA Logo"
 ---
 

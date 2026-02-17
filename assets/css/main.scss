@@ -10,7 +10,12 @@ search: false
 
 // Custom styles for JSC logo in gallery
 img[alt="JSC EA Logo"] {
-  max-height: 30px;
-  width: auto;
-  object-fit: contain;
+  max-height: 30px !important;
+  width: auto !important;
+  object-fit: contain !important;
+}
+
+.gallery figure:last-child img {
+  max-height: 30px !important;
+  width: auto !important;
 }
