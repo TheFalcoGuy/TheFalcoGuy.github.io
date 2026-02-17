@@ -2,6 +2,12 @@
 title: "Systems Analysis of SuperLimbs being incorporated as a Astronaut Assistive Device (Micro-Gravity)"
 layout: single
 
+publication_gallery:
+  - image_path: /assets/images/Logos/ICRA_2023_Logo.png
+    alt: "ICRA 2023 Logo"
+  - image_path: /assets/images/Logos/CHI_2022_Logo.png
+    alt: "CHI 2022 Logo"
+
 results_deflection_gallery:
   - image_path: /assets/images/ICRA_2023/Deflection.PNG
     alt: "X Direction Deflection"
@@ -13,6 +19,8 @@ results_deflection_gallery:
     alt: "Z Direction Deflection"
     caption: "Deflection of astronaut CoM under applied load in Z direction"
 ---
+
+{% include gallery id="publication_gallery" %}
 
 ## Overview
 
@@ -40,7 +48,3 @@ This study investigates the use case of incorporating Supernumerary Robotic Limb
 src="https://www.youtube.com/embed/Wed7JAyfLyA"
 frameborder="0"
 allowfullscreen></iframe>
-
-## Research Poster
-
-![Poster](/assets/images/ICRA_2023/ICRA_2023_Poster.pdf)
