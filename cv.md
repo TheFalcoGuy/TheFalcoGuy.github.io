@@ -33,6 +33,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 ## Research Experience
 **Massachusetts Institute of Technology / d'Arbeloff Robotics Laboratory - Graduate Research Assistant**
 *Integration of Supernumerary Robotic Limbs (SuperLimbs) on Space Suit Technology (Dr. Harry H. Asada)*
+
 April 2021 - Present 
 
 • Led development of full-scale ground test unit of SuperLimbs Space Suit prototype
@@ -43,6 +44,7 @@ April 2021 - Present
 
 **Jet Propulsion Laboratory / Caltech CAST Laboratory - Development Researcher / Engineer**
 *Autonomous Fault Detection System Development (Dr. Lorraine Fesq)*
+
 July 2020 - September 2020
     
 •   Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1
@@ -60,6 +62,7 @@ July 2020 - September 2020
 
 **The University of Texas at Austin - Undergraduate Researcher**
 *Quadratic Programming Controller Development (Dr. Efstathios Bakolas)*
+
 August 2017 - December 2017
     
 •   Developed PID controller that allows for stability control of dynamic systems via Quadratic Programming
@@ -69,6 +72,7 @@ August 2017 - December 2017
 ## Work Experience
 **Jet Propulsion Laboratory - Hardware Quality Assurance Engineer**
 *Hardware Quality Assurance Engineer*
+
 February 2020 - August 2021
     
 • Trained in JPL internal practices to inspecting/qualifying spaceflight hardware
@@ -80,7 +84,8 @@ February 2020 - August 2021
 • Reviewed flight project inspection reports for potential auxiliary effects 
 
 **Texas Spacecraft Laboratory - Spacecraft/Satellite Research and Development Engineer**
-*Flight Hardware Researcher/Specialist
+*Flight Hardware Researcher/Specialist*
+
 February 2019 - December 2019
     
 •  Led FPGA selection and satellite computer/control system hardware development 
@@ -95,6 +100,7 @@ February 2019 - December 2019
 
 **Walt Disney Imagineering - Professional Internship**
 *Show Mechanical Engineer*
+
 June 2018 - January 2019
     
 •  Designed mechanical assemblies for Advanced Audio-Animatronics
@@ -111,6 +117,7 @@ June 2018 - January 2019
 
 **Walt Disney World Resort - Professional Internship**
 *Quality/Safety Engineer*
+
 January 2018 - June 2018
     
 •  Actively participated in development of ASTM standard for Steam Train Locomotives
@@ -123,6 +130,7 @@ January 2018 - June 2018
 
 **NASA Johnson Space Center - Pathways Intern / Co-op**
 *Propulsion Systems Engineer*
+
 June 2019 - August 2019
     
 •   Developed industry baseline parameters for hypergolic startup ignitions
@@ -176,6 +184,7 @@ August 2014 - December 2014
 
 **Lockheed Martin Aeronautics - Internship**
 *F35 and Skunkworks Analyst*
+
 June 2013 - August 2013
     
 • Performed Finite Element Analysis (FEA) on F35 composites
@@ -197,6 +206,7 @@ June 2014 - August 2014
 
 **NASA Kennedy Space Center - Internship**
 *Cryogenics Testing Engineer*
+
 January 2014 - May 2014
     
 • Experimented on new launch pad support materials and multi-layer insulation  
