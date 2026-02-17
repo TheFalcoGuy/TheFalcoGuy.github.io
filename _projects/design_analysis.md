@@ -1,7 +1,14 @@
 ---
 title: "Design of Supernumerary Robotic Limbs for the Augmentation of Astronauts performing Partial-Gravity Extra-Vehicular Activities (EVAs)"
 layout: single
+publication_gallery:
+  - image_path: /assets/images/Logos/ICRA_2026_Logo.png
+    alt: "ICRA 2026 Logo"
+  - image_path: /assets/images/Logos/IJRR_Logo.png
+    alt: "Scitech Logo"
 ---
+
+{% include gallery id="publication_gallery" %}
 
 ## Overview
 
