@@ -25,17 +25,57 @@ description: >- # this means to ignore newlines until "baseurl:"
   Robotics Research | MIT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://TheFalcoGuy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  TheFalcoGuy
+github_username: TheFalcoGuy
+instagram_username: baron_von_erik
+linkedin_username: Erik Ballesteros
 author:
- name: Erik Ballesteros
- avatar: /assets/images/Erik_1.jpg
- bio: PhD Student in Robotics at MIT
+  name: Erik Ballesteros
+  avatar: /assets/images/Erik_1.jpg
+  bio: "PhD Candidate in the d'Arbeloff Robotics Laboratory at MIT"
+  location: "Cambridge, MA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:balleste@mit.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TheFalcoGuy"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/baron_von_erik"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/erik-ballesteros"
 
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+  # _pages
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
