@@ -2,7 +2,7 @@
 title: "Systems Analysis of SuperLimbs being incorporated as a Astronaut Assistive Device (Partial-Gravity)"
 layout: single
 publication_gallery:
-  - image_path: /assets/images/Logos/ICRA_2024_Logo.png
+  - image_path: /assets/images/Logos/ICRA_2024_Logo.jpg
     alt: "ICRA 2024 Logo"
   - image_path: /assets/images/Logos/SCITECH_FORUM_Logo.png
     alt: "Scitech Logo"
