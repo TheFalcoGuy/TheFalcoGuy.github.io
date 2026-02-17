@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Design, Control, and Human-Robot Interaction of Space Suits Integrated with Supernumerary Robotic Limbs
+logo: "/assets/images/SuperLimbs_Mission_Patch.png"
 email: balleste@mit.edu
 name: Erik Ballesteros
 description: >- # this means to ignore newlines until "baseurl:"
