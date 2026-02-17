@@ -18,6 +18,6 @@ This study investigates the use case of incorporating Supernumerary Robotic Limb
 ## Video Demo
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=Wed7JAyfLyA"
+src="https://www.youtube.com/embed/Wed7JAyfLyA"
 frameborder="0"
 allowfullscreen></iframe>
