@@ -38,3 +38,7 @@ This study investigates the use case of incorporating Supernumerary Robotic Limb
 src="https://www.youtube.com/embed/Wed7JAyfLyA"
 frameborder="0"
 allowfullscreen></iframe>
+
+## Research Poster
+
+![Poster](/assets/images/ICRA_2023/ICRA_2023_Poster.pdf)
