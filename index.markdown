@@ -25,11 +25,11 @@ collaborator_gallery:
   - url: https://www.jpl.nasa.gov
     image_path: /assets/images/Logos/JPL_Logo.png
     alt: "JPL Logo"
-  - image_path: /assets/images/Logos/JSC_EA_Logo.png
+  - image_path: /assets/images/Logos/JSC_ER_Logo.png
     alt: "JSC EA Logo"
 ---
 
-{% include gallery id="collaborator_gallery" caption="Project Collaborators and Sponsors" %}
+{% include gallery id="collaborator_gallery" %}
 
 ## Research Abstract
 
