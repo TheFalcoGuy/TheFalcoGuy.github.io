@@ -8,8 +8,13 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Custom styles for JSC logo in gallery
+// Custom styles for logos in gallery
 img[alt="JSC EA Logo"] {
+  max-height: 200px !important;
+  width: auto !important;
+  object-fit: contain !important;
+}
+img[alt="ICRA 2023 Logo"] {
   max-height: 200px !important;
   width: auto !important;
   object-fit: contain !important;
