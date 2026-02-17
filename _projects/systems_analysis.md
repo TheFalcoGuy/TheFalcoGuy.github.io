@@ -6,10 +6,10 @@ results_deflection_gallery:
   - image_path: /assets/images/ICRA_2023/Deflection.PNG
     alt: "X Direction Deflection"
     caption: "Deflection of astronaut CoM under applied load in X direction"
-  - image_path: /assets/images/ICRA_2023/Deflection_Y.PNG
+  - image_path: /assets/images/ICRA_2023/Deflection_y_axis.PNG
     alt: "Y Direction Deflection"
     caption: "Deflection of astronaut CoM under applied load in Y direction"
-  - image_path: /assets/images/ICRA_2023/Deflection_Z.PNG
+  - image_path: /assets/images/ICRA_2023/Deflection_z_axis.PNG
     alt: "Z Direction Deflection"
     caption: "Deflection of astronaut CoM under applied load in Z direction"
 ---
