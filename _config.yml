@@ -65,6 +65,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      classes: wide
   # _projects
   - scope:
       path: ""
@@ -72,12 +73,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
   # _pages
   - scope:
       path: ""
     values:
       layout: single
       author_profile: true
+      classes: wide
 
 # Exclude from processing.
 # The following items will not be processed, by default.
