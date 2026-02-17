@@ -36,9 +36,9 @@ collaborator_gallery:
 Supernumerary Robotic Limbs (SuperLimbs) are a type of wearable robot attached to the body of a user. We propose to incorporate SuperLimbs onto space suits so that astronauts can utilize additional appendages for stability and augmentation. These SuperLimbs would work in coordination with the astronaut as a portable rigid tether, as well as a collaborative assistant in various EVA operations. SuperLimbs on space suits improves astronaut safety and reliability during EVAs (TA 7.3.1). In addition, the application of SuperLimbs in EVAs presents unique challenges requiring novel solutions to human-robot coordination and intention detection (TA 4.4.4). 
 
 For exploring the potentials of SuperLimbs in future EVAs, 3 key objectives must be addressed: 
-1. Enhance astronaut safety - With SuperLimbs, a multitude of safety measures can be created to mitigate various safety risks during EVAs. 
-2. Improve astronaut productivity – With SuperLimbs the astronaut’s body can be secured so that the astronaut can focus on task execution using both hands. Furthermore, SuperLimbs can streamline and expedite task execution with the two extra hands. 
-3. Mitigate metabolic loading conditions - With SuperLimbs, an astronaut’s workload and ergonomics can be improved to minimize metabolic consumption. 
+1. **Enhance astronaut safety** - With SuperLimbs, a multitude of safety measures can be created to mitigate various safety risks during EVAs. 
+2. **Improve astronaut productivity** – With SuperLimbs the astronaut’s body can be secured so that the astronaut can focus on task execution using both hands. Furthermore, SuperLimbs can streamline and expedite task execution with the two extra hands. 
+3. **Mitigate metabolic loading conditions** - With SuperLimbs, an astronaut’s workload and ergonomics can be improved to minimize metabolic consumption. 
 
 To meet these key objectives we will investigate: - Fall Protection, Prevention, and Recovery – The astronaut’s movements will be monitored and assisted at three levels when traversing a landscape. 
 a. SuperLimbs can stabilize an astronaut’s gait; 
