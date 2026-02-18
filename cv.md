@@ -46,16 +46,21 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 <summary><strong>Jet Propulsion Laboratory / Caltech CAST Laboratory - Development Researcher / Engineer</strong></summary>
 
 **Project:** Autonomous Fault Detection System Development
-*Lead: Dr. Lorraine Fesq*
+**Lead: Dr. Lorraine Fesq**
 
-- Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1
-- Identified telemetry from Iris system to enhance autonomous fault-detection capabilities
+<ul>
+  <li>Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1
+  <li>Identified telemetry from Iris system to enhance autonomous fault-detection capabilities
+</ul>
 
 **Project:** Rotorcraft Vortex Ring State Model Development 
-*Lead: Dr. Jeff Delaune*
-- Developed Python-based model describing Vortex Ring State phenomenon in rotorcraft
-- Translated model to Martian atmospheric conditions to synergize with Mars Helicopter project
-- Performed signal processing/interpretation of analog rotorcraft tests performed at Caltech CAST Laboratory
+**Lead: Dr. Jeff Delaune**
+
+<ul>
+  <li>Developed Python-based model describing Vortex Ring State phenomenon in rotorcraft
+  <li>Translated model to Martian atmospheric conditions to synergize with Mars Helicopter project
+  <li>Performed signal processing/interpretation of analog rotorcraft tests performed at Caltech CAST Laboratory
+</ul>
 
 </details>
 
