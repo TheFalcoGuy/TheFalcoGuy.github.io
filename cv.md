@@ -148,7 +148,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 
 <div class="experience-block">
 <div class="experience-logo">
-<img src="/assets/images/Logos/Disney_Imagineering_Logo.png" alt="Walt Disney Imagineering Logo">
+<img src="/assets/images/Logos/Disney_Imagineering_Logo.svg" alt="Walt Disney Imagineering Logo">
 </div>
 <details>
 <summary><strong>Walt Disney Imagineering - Professional Internship</strong></summary>
@@ -171,7 +171,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 
 <div class="experience-block">
 <div class="experience-logo">
-<img src="/assets/images/Logos/Disney_World_Logo.png" alt="Walt Disney World Logo">
+<img src="/assets/images/Logos/Walt_Disney_World_Logo.png" alt="Walt Disney World Logo">
 </div>
 <details>
 <summary><strong>Walt Disney World Resort - Professional Internship</strong></summary>
@@ -192,7 +192,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 
 <div class="experience-block">
 <div class="experience-logo">
-<img src="/assets/images/Logos/NASA_Logo.png" alt="NASA Logo">
+<img src="/assets/images/Logos/NASA_Meatball_Logo.png" alt="NASA Logo">
 </div>
 <details>
 <summary><strong>NASA Johnson Space Center - Pathways Intern / Co-op</strong></summary>
@@ -292,7 +292,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 
 <div class="experience-block">
 <div class="experience-logo">
-<img src="/assets/images/Logos/NASA_Logo.png" alt="NASA Logo">
+<img src="/assets/images/Logos/NASA_Meatball_Logo.png" alt="NASA Logo">
 </div>
 <details>
 <summary><strong>NASA Kennedy Space Center - Internship</strong></summary>
