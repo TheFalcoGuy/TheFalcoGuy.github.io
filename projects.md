@@ -1,6 +1,6 @@
 ---
 layout: collection
 collection: projects
-title: "Projects"
+title: "Studies"
 permalink: /projects/
 ---

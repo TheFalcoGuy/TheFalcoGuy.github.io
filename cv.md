@@ -4,25 +4,22 @@ title: "CV"
 permalink: /cv/
 ---
 
-## Contact
+## Erik Ballesteros - Curriculum Vitae
 
-Email: balleste@mit.edu
+## Selected Highlights
+
+  - NASA Space Technology Graduate Research Opportunity (NSTGRO) Fellowship
+  - Patent filed on Supernumerary Robotic Limbs
+  - Multiple robotics conference publications
 
 ## Education
 
 **Massachusetts Institute of Technology**  
-Ph.D., Mechanical Engineering
-Expected Graduation: May 2027
-Cumulative GPA: 4.95/5.00
-
-Master of Science, Mechanical Engineering
-Graduation: May 2023
-Cumulative GPA: 4.90/5.00
+Ph.D., Mechanical Engineering (Expected 2027)
+M.S., Mechanical Engineering (2023)
 
 **The University of Texas at Austin**
-Bachelor of Science, Aerospace Engineering, Summa Cum Laude
-Graduation: Dec 2019
-Cumulative GPA: 3.99/4.00
+B.S., Aerospace Engineering (2019)
 
 ## Patents
 Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Movement using Robotic Limbs (Patent No. WO 2023/212212 A2). World Intellectural Property Organization.
@@ -31,43 +28,39 @@ Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Mo
 Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W., Schutte, A., Fraeman, A., Scott, V., Leake, C., **Ballesteros, E.**, Withrow, S., Bhagwat, R., Cummings, H., Aaron, K., Veismann, M., Wei, S., Lee, R., Madrid, L. P., Gharib, M., and Brudick, J. (2020). Motivations and Preliminary Design for Mid-Air Deployment of a Science Rotorcraft on Mars, *2020 AIAA ASCEND Conference*.
 
 ## Research Experience
-**Massachusetts Institute of Technology / d'Arbeloff Robotics Laboratory - Graduate Research Assistant**
+<details>
+<summary><strong>MIT / d'Arbeloff Robotics Laboratory - Graduate Research Assistant</strong></summary>
+  <details>
+  <summary>Integration of Supernumerary Robotic Limbs on Space Suit Technology (Dr. Harry H. Asada)</summary>
+  - Led development of full-scale ground test unit of SuperLimbs Space Suit prototype
+  - Developed static bracing/dynamic locomotion models of planetary application of Space SuperLimbs system
+  - Designed and implemented admittance control synthesis and demonstrated successful implementation
+  </details>
+</details>
 
-*Integration of Supernumerary Robotic Limbs (SuperLimbs) on Space Suit Technology (Dr. Harry H. Asada)*:
-April 2021 - Present 
+<details>
+<summary><strong>Jet Propulsion Laboratory / Caltech CAST Laboratory - Development Researcher / Engineer</strong></summary>
+  <details>
+  <summary>Autonomous Fault Detection System Development (Dr. Lorraine Fesq)</summary>
+    - Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1
+    - Identified telemetry from Iris system to enhance autonomous fault-detection capabilities
+  </details>
+  <details>
+  <summary>Rotorcraft Vortex Ring State Model Development (Dr. Jeff Delaune)</summary>
+    - Developed Python-based model describing Vortex Ring State phenomenon in rotorcraft
+    - Translated model to Martian atmospheric conditions to synergize with Mars Helicopter project
+    - Performed signal processing/interpretation of analog rotorcraft tests performed at Caltech CAST Laboratory
+  </details>
+</details>
 
-• Led development of full-scale ground test unit of SuperLimbs Space Suit prototype
-    
-• Developed static bracing/dynamic locomotion models of planetary application of Space SuperLimbs system
-   
-• Designed and implemented admittance control synthesis and demonstrated successful implementation
-
-**Jet Propulsion Laboratory / Caltech CAST Laboratory - Development Researcher / Engineer**
-
-*Autonomous Fault Detection System Development (Dr. Lorraine Fesq)*:
-July 2020 - September 2020
-    
-•   Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1
-    
-•   Identified telemetry from Iris system to enhance autonomous fault-detection capabilities
-
-*Rotorcraft Vortex Ring State Model Development (Dr. Jeff Delaune)*:
-July 2020 - September 2020
-    
-•   Developed Python-based model describing Vortex Ring State phenomenon in rotorcraft
-    
-•   Translated model to Martian atmospheric conditions to synergize with Mars Helicopter project
-    
-•   Performed signal processing/interpretation of analog rotorcraft tests performed at Caltech CAST Laboratory
-
-**The University of Texas at Austin - Undergraduate Researcher**
-
-*Quadratic Programming Controller Development (Dr. Efstathios Bakolas)*:
-August 2017 - December 2017
-    
-•   Developed PID controller that allows for stability control of dynamic systems via Quadratic Programming
-    
-•   Created wireless interface between microcontroller and dynamic system for autonomy research
+<details>
+<summary><strong>The University of Texas at Austin - Undergraduate Researcher</strong></summary>
+  <details>
+  <summary>Quadratic Programming Controller Development (Dr. Efstathios Bakolas)</summary>
+    - Developed PID controller that allows for stability control of dynamic systems via Quadratic Programming
+    - Created wireless interface between microcontroller and dynamic system for autonomy research
+  </details>
+</details>
 
 ## Work Experience
 **Jet Propulsion Laboratory - Hardware Quality Assurance Engineer**
