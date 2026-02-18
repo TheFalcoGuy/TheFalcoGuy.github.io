@@ -31,8 +31,8 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 <details>
 <summary><strong>Massachusetts Institute of Technology / d'Arbeloff Robotics Laboratory - Graduate Research Assistant</strong></summary>
 
-**Project:** Integration of Supernumerary Robotic Limbs on Space Suit Technology
-**Advisor: Dr. Harry H. Asada**
+<strong>Project:</strong> Integration of Supernumerary Robotic Limbs on Space Suit Technology
+<strong>Advisor: Dr. Harry H. Asada</strong>
 
 <ul>
   <li>Led development of full-scale ground test unit of SuperLimbs Space Suit prototype</li>
@@ -45,16 +45,16 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 <details>
 <summary><strong>Jet Propulsion Laboratory / Caltech CAST Laboratory - Development Researcher / Engineer</strong></summary>
 
-**Project:** Autonomous Fault Detection System Development
-**Lead: Dr. Lorraine Fesq**
+<strong>Project:</strong> Autonomous Fault Detection System Development
+<strong>Lead: Dr. Lorraine Fesq</strong>
 
 <ul>
   <li>Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1</li>
   <li>Identified telemetry from Iris system to enhance autonomous fault-detection capabilities</li>
 </ul>
 
-**Project:** Rotorcraft Vortex Ring State Model Development 
-**Lead: Dr. Jeff Delaune**
+<strong>Project:</strong> Rotorcraft Vortex Ring State Model Development 
+<strong>Lead: Dr. Jeff Delaune</strong>
 
 <ul>
   <li>Developed Python-based model describing Vortex Ring State phenomenon in rotorcraft</li>
