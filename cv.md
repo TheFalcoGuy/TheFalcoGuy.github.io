@@ -30,6 +30,10 @@ Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Mo
 Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W., Schutte, A., Fraeman, A., Scott, V., Leake, C., **Ballesteros, E.**, Withrow, S., Bhagwat, R., Cummings, H., Aaron, K., Veismann, M., Wei, S., Lee, R., Madrid, L. P., Gharib, M., and Brudick, J. (2020). Motivations and Preliminary Design for Mid-Air Deployment of a Science Rotorcraft on Mars, *2020 AIAA ASCEND Conference*.
 
 ## Research Experience
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/d-lab_logo_full.png" alt="MIT d-lab Logo">
+</div>
 <details>
 <summary><strong>Massachusetts Institute of Technology / d'Arbeloff Robotics Laboratory - Graduate Research Assistant</strong></summary>
 
@@ -45,7 +49,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/JPL_Logo.png" alt="JPL Logo">
+</div>
 <details>
 <summary><strong>Jet Propulsion Laboratory / Caltech CAST Laboratory - Development Researcher / Engineer</strong></summary>
 
@@ -71,7 +80,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/UT_Austin_Logo.png" alt="UT Austin Logo">
+</div>
 <details>
 <summary><strong>The University of Texas at Austin - Undergraduate Researcher</strong></summary>
 
@@ -86,8 +100,13 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
 ## Work Experience
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/JPL_Logo.png" alt="JPL Logo">
+</div>
 <details>
 <summary><strong>Jet Propulsion Laboratory - Hardware Quality Assurance Engineer</strong></summary>
 
@@ -103,7 +122,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/TSL_Logo.png" alt="Texas Spacecraft Laboratory Logo">
+</div>
 <details>
 <summary><strong>Texas Spacecraft Laboratory - Spacecraft/Satellite Research and Development Engineer</strong></summary>
 
@@ -120,7 +144,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/Disney_Imagineering_Logo.png" alt="Walt Disney Imagineering Logo">
+</div>
 <details>
 <summary><strong>Walt Disney Imagineering - Professional Internship</strong></summary>
 
@@ -138,7 +167,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/Disney_World_Logo.png" alt="Walt Disney World Logo">
+</div>
 <details>
 <summary><strong>Walt Disney World Resort - Professional Internship</strong></summary>
 
@@ -154,7 +188,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/NASA_Logo.png" alt="NASA Logo">
+</div>
 <details>
 <summary><strong>NASA Johnson Space Center - Pathways Intern / Co-op</strong></summary>
 
@@ -218,7 +257,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/Lockheed_Martin_Logo.png" alt="Lockheed Martin Logo">
+</div>
 <details>
 <summary><strong>Lockheed Martin Aeronautics - Internship</strong></summary>
 
@@ -244,7 +288,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
+<div class="experience-block">
+<div class="experience-logo">
+<img src="/assets/images/Logos/NASA_Logo.png" alt="NASA Logo">
+</div>
 <details>
 <summary><strong>NASA Kennedy Space Center - Internship</strong></summary>
 
@@ -260,6 +309,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </ul>
 
 </details>
+</div>
 
 ## Awards
 

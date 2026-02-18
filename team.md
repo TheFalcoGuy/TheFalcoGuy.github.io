@@ -37,7 +37,7 @@ permalink: /team/
   <div class="team-info">
     <h3>Erik Ballesteros</h3>
     <p><strong>Role:</strong> Project Lead</p>
-    <p>MIT Ph.D. Candidate and NSTGRO Fellow - Department of Mechanical Engineering</p>
+    <p>Ph.D. Candidate and NSTGRO Fellow - MIT Department of Mechanical Engineering</p>
   </div>
 </div>
 
