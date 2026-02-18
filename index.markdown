@@ -39,6 +39,8 @@ collaborator_gallery:
 
 ## What are Supernumerary Robotic Limbs (SuperLimbs)?
 
+![SuperLimbs Philosophy](/assets/images/SuperLimbs_Philosophy.png)
+
 Supernumerary Robotic Limbs (SuperLimbs) are a type of wearable robot attached to the body of a user. We propose to incorporate SuperLimbs onto space suits so that astronauts can utilize additional appendages for stability and augmentation. These SuperLimbs would work in coordination with the astronaut as a portable rigid tether, as well as a collaborative assistant in various EVA operations. SuperLimbs on space suits improves astronaut safety and reliability during EVAs. In addition, the application of SuperLimbs in EVAs presents unique challenges requiring novel solutions to human-robot coordination and intention detection. 
 
 For exploring the potentials of SuperLimbs in future EVAs, 3 key objectives must be addressed: 
@@ -58,5 +60,3 @@ To meet these key objectives we will investigate:
 [NASA STMD Tech Port Profile](https://techport.nasa.gov/projects/156352)
 
 SuperLimbs fundamentally changes how humans interact with the physical world around them. In a world where AI and automation is phasing out human workers; we aim to evolve humans by **expanding** their physical capabilties, **augmenting** their strength and abilities, and **reinventing** how a human works in an ever-changing world.
-
-![SuperLimbs Philosophy](/assets/images/SuperLimbs_Philosophy.png)
