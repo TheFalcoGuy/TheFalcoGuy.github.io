@@ -30,12 +30,12 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 ## Research Experience
 <details>
 <summary><strong>Massachusetts Institute of Technology / d'Arbeloff Robotics Laboratory - Graduate Research Assistant</strong></summary>
-  <details>
-  <summary>Integration of Supernumerary Robotic Limbs on Space Suit Technology (Dr. Harry H. Asada)</summary>
-    • Led development of full-scale ground test unit of SuperLimbs Space Suit prototype
-    • Developed static bracing/dynamic locomotion models of planetary application of Space SuperLimbs system
-    • Designed and implemented admittance control synthesis and demonstrated successful implementation
-  </details>
+  **Project:** Integration of Supernumerary Robotic Limbs on Space Suit Technology
+  *Advisor: Dr. Harry H. Asada
+
+- Led development of full-scale ground test unit of SuperLimbs Space Suit prototype
+- Developed static bracing/dynamic locomotion models of planetary application of Space SuperLimbs system
+- Designed and implemented admittance control synthesis and demonstrated successful implementation
 </details>
 
 <details>
