@@ -35,9 +35,9 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 **Advisor: Dr. Harry H. Asada**
 
 <ul>
-  <li>Led development of full-scale ground test unit of SuperLimbs Space Suit prototype
-  <li>Developed static bracing/dynamic locomotion models of planetary application of Space SuperLimbs system
-  <li>Designed and implemented admittance control synthesis and demonstrated successful implementation
+  <li>Led development of full-scale ground test unit of SuperLimbs Space Suit prototype</li>
+  <li>Developed static bracing/dynamic locomotion models of planetary application of Space SuperLimbs system</li>
+  <li>Designed and implemented admittance control synthesis and demonstrated successful implementation</li>
 </ul>
 
 </details>
@@ -49,17 +49,17 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 **Lead: Dr. Lorraine Fesq**
 
 <ul>
-  <li>Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1
-  <li>Identified telemetry from Iris system to enhance autonomous fault-detection capabilities
+  <li>Developed functional prototype MONSID model of Iris Radio Subsystem being developed for Artemis-1</li>
+  <li>Identified telemetry from Iris system to enhance autonomous fault-detection capabilities</li>
 </ul>
 
 **Project:** Rotorcraft Vortex Ring State Model Development 
 **Lead: Dr. Jeff Delaune**
 
 <ul>
-  <li>Developed Python-based model describing Vortex Ring State phenomenon in rotorcraft
-  <li>Translated model to Martian atmospheric conditions to synergize with Mars Helicopter project
-  <li>Performed signal processing/interpretation of analog rotorcraft tests performed at Caltech CAST Laboratory
+  <li>Developed Python-based model describing Vortex Ring State phenomenon in rotorcraft</li>
+  <li>Translated model to Martian atmospheric conditions to synergize with Mars Helicopter project</li>
+  <li>Performed signal processing/interpretation of analog rotorcraft tests performed at Caltech CAST Laboratory</li>
 </ul>
 
 </details>
