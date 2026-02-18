@@ -32,7 +32,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 ## Research Experience
 <div class="experience-block">
 <div class="experience-logo">
-<img src="/assets/images/Logos/d-lab_logo_full.png" alt="MIT d-lab Logo">
+<img src="/assets/images/Logos/MIT_Logo.png" alt="MIT Logo">
 </div>
 <details>
 <summary><strong>Massachusetts Institute of Technology / d'Arbeloff Robotics Laboratory - Graduate Research Assistant</strong></summary>
