@@ -29,7 +29,7 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 
 ## Research Experience
 <details>
-<summary><strong>MIT / d'Arbeloff Robotics Laboratory - Graduate Research Assistant</strong></summary>
+<summary><strong>Massachusetts Institute of Technology / d'Arbeloff Robotics Laboratory - Graduate Research Assistant</strong></summary>
   <details>
   <summary>Integration of Supernumerary Robotic Limbs on Space Suit Technology (Dr. Harry H. Asada)</summary>
   - Led development of full-scale ground test unit of SuperLimbs Space Suit prototype
@@ -63,63 +63,52 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 </details>
 
 ## Work Experience
-**Jet Propulsion Laboratory - Hardware Quality Assurance Engineer**
+<details>
+<summary><strong>Jet Propulsion Laboratory - Hardware Quality Assurance Engineer</strong></summary>
+  <details>
+  <summary>Hardware Quality Assurance Engineer</summary>
+    - Trained in JPL internal practices to inspecting/qualifying spaceflight hardware
+    - Assisted in inspection operations for in-situ hardware development (Mars 2020 – PIXL)
+    - Participated in Assembly and Testing of spacecraft system (NISAR)
+    - Reviewed flight project inspection reports for potential auxiliary effects 
+  </details>
+</details>
 
-*Hardware Quality Assurance Engineer*:
-February 2020 - August 2021
-    
-• Trained in JPL internal practices to inspecting/qualifying spaceflight hardware
-    
-• Assisted in inspection operations for in-situ hardware development (Mars 2020 – PIXL)
-    
-• Participated in Assembly and Testing of spacecraft system (NISAR)
-    
-• Reviewed flight project inspection reports for potential auxiliary effects 
+<details>
+<summary><strong>Texas Spacecraft Laboratory - Spacecraft/Satellite Research and Development Engineer</strong></summary>
+  <details>
+  <summary>Flight Hardware Researcher/Specialist</summary>
+    - Led FPGA selection and satellite computer/control system hardware development 
+    - Aided in design of customized I/O board to support neural network based logic computer 
+    - Selected, specified, and verified vendor supplied I2C/SPI sensors for flight performance payload 
+    - Wrote and debugged various Python based scripts to be utilized on flight performance computers
+    - Drafted and finalized satellite system performance/design requirements
+  </details>
+</details>
 
-**Texas Spacecraft Laboratory - Spacecraft/Satellite Research and Development Engineer**
+<details>
+<summary><strong>Walt Disney Imagineering - Professional Internship</strong></summary>
+  <details>
+  <summary>Show Mechanical Engineer</summary>
+    - Designed mechanical assemblies for Advanced Audio-Animatronics
+    - Performed rigid body dynamic (RBD) analyses of anthropomorphic/non-anthropomorphic motion envelops
+    - Selected and organized electric motor drives, encoders, and connectors for in design audio-animatronics
+    - Specified connectors subject to environmental, maintenance, and space constraints 
+    - Developed functional prototype from servo motors for finalist PitchFest 2018 presentation
+    - Supported wiring layout for customized breakout boards for encoders and motor drives 
+  </details>
+</details>
 
-*Flight Hardware Researcher/Specialist*:
-February 2019 - December 2019
-    
-•  Led FPGA selection and satellite computer/control system hardware development 
-    
-•  Aided in design of customized I/O board to support neural network based logic computer 
-    
-•  Selected, specified, and verified vendor supplied I2C/SPI sensors for flight performance payload 
-    
-•  Wrote and debugged various Python based scripts to be utilized on flight performance computers
-    
-•  Drafted and finalized satellite system performance/design requirements
-
-**Walt Disney Imagineering - Professional Internship**
-
-*Show Mechanical Engineer*:
-June 2018 - January 2019
-    
-•  Designed mechanical assemblies for Advanced Audio-Animatronics
-    
-•  Performed rigid body dynamic (RBD) analyses of anthropomorphic/non-anthropomorphic motion envelops
-    
-•  Selected and organized electric motor drives, encoders, and connectors for in design audio-animatronics
-    
-•  Specified connectors subject to environmental, maintenance, and space constraints 
-    
-•  Developed functional prototype from servo motors for finalist PitchFest 2018 presentation
-    
-•  Supported wiring layout for customized breakout boards for encoders and motor drives 
-
-**Walt Disney World Resort - Professional Internship**
-
-*Quality/Safety Engineer*:
-January 2018 - June 2018
-    
-•  Actively participated in development of ASTM standard for Steam Train Locomotives
-    
-•  Performed auditing of Walt Disney World attractions for state safety requirements compliance
-    
-•  Assisted in BIM environment development for various Walt Disney World attractions
-    
-•  Directed and collected attraction lighting data for guest safety studies
+<details>
+<summary><strong>Walt Disney World Resort - Professional Internship</strong></summary>
+  <details>
+  <summary>Quality/Safety Engineer</summary>
+    - Actively participated in development of ASTM standard for Steam Train Locomotives
+    - Performed auditing of Walt Disney World attractions for state safety requirements compliance
+    - Assisted in BIM environment development for various Walt Disney World attractions
+    - Directed and collected attraction lighting data for guest safety studies
+  </details>
+</details>
 
 **NASA Johnson Space Center - Pathways Intern / Co-op**
 

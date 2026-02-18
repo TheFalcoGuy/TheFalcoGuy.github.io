@@ -106,3 +106,8 @@ collections:
  projects:
   output: true
   permalink: /:collection/:name/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
