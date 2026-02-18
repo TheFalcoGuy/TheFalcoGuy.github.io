@@ -8,6 +8,15 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Gallery image size overrides - target figure containers */
+.page__content figure.third img,
+.page__content figure.half img {
+  max-height: 150px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+
 // Custom styles for logos in gallery
 img[alt="JSC EA Logo"] {
   max-height: 200px !important;
@@ -59,7 +68,7 @@ img[alt="HSL Logo"] {
   width: auto !important;
   object-fit: contain !important;
 }
-img[alt="d Lab Logo"] {
+img[alt="d-Lab Logo"] {
   max-height: 150px !important;
   width: auto !important;
   object-fit: contain !important;
