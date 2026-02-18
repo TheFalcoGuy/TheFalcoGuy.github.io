@@ -33,7 +33,7 @@ permalink: /team/
 </style>
 
 <div class="team-member">
-  <a href="https://engineeritsolutions.wordpress.com/" target="_blank"><img src="/assets/images/Erik_4.JPG" alt="Erik Ballesteros" class="team-photo"></a>
+  <a href="https://engineeritsolutions.wordpress.com/" target="_blank"><img src="/assets/images/Erik_4.jpg" alt="Erik Ballesteros" class="team-photo"></a>
   <div class="team-info">
     <h3>Erik Ballesteros</h3>
     <p><strong>Role:</strong> Project Lead</p>
