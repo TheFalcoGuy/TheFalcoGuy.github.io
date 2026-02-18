@@ -6,6 +6,8 @@ permalink: /cv/
 
 ## Erik Ballesteros - Curriculum Vitae
 
+[[Downloadable PDF]](/assets/other_documents/Erik_Ballesteros_CV.pdf)
+
 ## Selected Highlights
 
   - NASA Space Technology Graduate Research Opportunity (NSTGRO) Fellowship
