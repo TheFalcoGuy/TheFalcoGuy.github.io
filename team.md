@@ -33,7 +33,7 @@ permalink: /team/
 </style>
 
 <div class="team-member">
-  <img src="/assets/images/Erik_4.JPG" alt="Erik Ballesteros" class="team-photo">
+  <a href="https://engineeritsolutions.wordpress.com/" target="_blank"><img src="/assets/images/Erik_4.JPG" alt="Erik Ballesteros" class="team-photo"></a>
   <div class="team-info">
     <h3>Erik Ballesteros</h3>
     <p><strong>Role:</strong> Project Lead</p>
@@ -42,7 +42,7 @@ permalink: /team/
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Harry.jpeg" alt="Harry Asada" class="team-photo">
+  <a href="https://meche.mit.edu/people/faculty/asada%40mit.edu" target="_blank"><img src="/assets/images/Harry.jpeg" alt="Harry Asada" class="team-photo"></a>
   <div class="team-info">
     <h3>Harry H. Asada</h3>
     <p><strong>Role:</strong> Academic Advisor (Committee Chair)</p>
@@ -51,34 +51,34 @@ permalink: /team/
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Kalind.jpg" alt="Kalind Carpenter" class="team-photo">
+  <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/kalind_carpenter/" target="_blank"><img src="/assets/images/Kalind.jpg" alt="Kalind Carpenter" class="team-photo"></a>
   <div class="team-info">
     <h3>Kalind Carpenter</h3>
     <p><strong>Role:</strong> NASA NSTGRO Collaborator (JPL)</p>
-    <p>Robotics Engineer - Advanced Robotic Systems (Hardware and Design)</p>
+    <p>Robotics Mechanical Engineer - Advanced Robotic Systems (Hardware and Design)</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Preston.jpg" alt="Preston Rogers" class="team-photo">
+  <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/preston-rogers/" target="_blank"><img src="/assets/images/Preston.jpg" alt="Preston Rogers" class="team-photo"></a>
   <div class="team-info">
     <h3>Preston Rogers</h3>
     <p><strong>Role:</strong> NASA NSTGRO Collaborator (JPL)</p>
-    <p>Robotics Engineer - Software and Simulation</p>
+    <p>Robotics Technologist - Software and Simulation</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Kaitlin.jpg" alt="Kaitlin Lostroscio" class="team-photo">
+  <a href="https://www.nasa.gov/people/kaitlin-lostroscio-nesc-academy-biography/" target="_blank"><img src="/assets/images/Kaitlin.jpg" alt="Kaitlin Lostroscio" class="team-photo"></a>
   <div class="team-info">
     <h3>Kaitlin Lostroscio</h3>
     <p><strong>Role:</strong> NASA NSTGRO Collaborator (JSC)</p>
-    <p>Robotics Engineer - Software and Simulation (Human Factors)</p>
+    <p>Aerospace Engineer - Software, Robotics, and Simulation (Human Factors)</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Jeff.jpg" alt="Jeffrey Hoffman" class="team-photo">
+  <a href="https://aeroastro.mit.edu/people/jeffrey-a-hoffman/" target="_blank"><img src="/assets/images/Jeff.jpg" alt="Jeffrey Hoffman" class="team-photo"></a>
   <div class="team-info">
     <h3>Jeffrey Hoffman</h3>
     <p><strong>Role:</strong> Academic Advisory Committee Member</p>
@@ -87,7 +87,7 @@ permalink: /team/
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Maria.jpg" alt="Maria Yang" class="team-photo">
+  <a href="https://meche.mit.edu/people/faculty/MCYANG@MIT.EDU" target="_blank"><img src="/assets/images/Maria.jpg" alt="Maria Yang" class="team-photo"></a>
   <div class="team-info">
     <h3>Maria Yang</h3>
     <p><strong>Role:</strong> Academic Advisory Committee Member</p>
