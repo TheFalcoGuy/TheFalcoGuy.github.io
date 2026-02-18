@@ -33,63 +33,63 @@ permalink: /team/
 </style>
 
 <div class="team-member">
-  <img src="/assets/images/Erik_4.jpg" alt="Erik" class="team-photo">
+  <img src="/assets/images/Erik_4.JPG" alt="Erik Ballesteros" class="team-photo">
   <div class="team-info">
-    <h3>Erik</h3>
+    <h3>Erik Ballesteros</h3>
     <p><strong>Role:</strong> Project Lead</p>
     <p>MIT Ph.D. Candidate and NSTGRO Fellow - Department of Mechanical Engineering</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Harry.jpeg" alt="Harry" class="team-photo">
+  <img src="/assets/images/Harry.jpeg" alt="Harry Asada" class="team-photo">
   <div class="team-info">
-    <h3>Harry</h3>
+    <h3>Harry H. Asada</h3>
     <p><strong>Role:</strong> Academic Advisor (Committee Chair)</p>
     <p>Ford Professor of Engineering - MIT Department of Mechanical Engineering</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Kalind.jpg" alt="Kalind" class="team-photo">
+  <img src="/assets/images/Kalind.jpg" alt="Kalind Carpenter" class="team-photo">
   <div class="team-info">
-    <h3>Kalind</h3>
+    <h3>Kalind Carpenter</h3>
     <p><strong>Role:</strong> NASA NSTGRO Collaborator (JPL)</p>
     <p>Robotics Engineer - Advanced Robotic Systems (Hardware and Design)</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Preston.jpg" alt="Preston" class="team-photo">
+  <img src="/assets/images/Preston.jpg" alt="Preston Rogers" class="team-photo">
   <div class="team-info">
-    <h3>Preston</h3>
+    <h3>Preston Rogers</h3>
     <p><strong>Role:</strong> NASA NSTGRO Collaborator (JPL)</p>
     <p>Robotics Engineer - Software and Simulation</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Kaitlin.jpg" alt="Kaitlin" class="team-photo">
+  <img src="/assets/images/Kaitlin.jpg" alt="Kaitlin Lostroscio" class="team-photo">
   <div class="team-info">
-    <h3>Kaitlin</h3>
+    <h3>Kaitlin Lostroscio</h3>
     <p><strong>Role:</strong> NASA NSTGRO Collaborator (JSC)</p>
     <p>Robotics Engineer - Software and Simulation (Human Factors)</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Jeff.jpg" alt="Jeff" class="team-photo">
+  <img src="/assets/images/Jeff.jpg" alt="Jeffrey Hoffman" class="team-photo">
   <div class="team-info">
-    <h3>Jeff</h3>
+    <h3>Jeffrey Hoffman</h3>
     <p><strong>Role:</strong> Academic Advisory Committee Member</p>
     <p>Former Space Shuttle Astronaut, Professor of the Practice - MIT Department of Aerospace Engineering</p>
   </div>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/Maria.jpg" alt="Maria" class="team-photo">
+  <img src="/assets/images/Maria.jpg" alt="Maria Yang" class="team-photo">
   <div class="team-info">
-    <h3>Maria</h3>
+    <h3>Maria Yang</h3>
     <p><strong>Role:</strong> Academic Advisory Committee Member</p>
     <p>Vice Provost for Faculty, Professor - MIT Department of Mechanical Engineering</p>
   </div>
