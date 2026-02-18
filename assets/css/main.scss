@@ -74,9 +74,11 @@ img[alt="d-Lab Logo"] {
   object-fit: contain !important;
 }
 img[alt="SuperLimbs Philosophy"] {
-  max-height: 150px !important;
+  max-height: 400px !important;
   width: auto !important;
   object-fit: contain !important;
+  display: block;
+  margin: 0 auto;
 }
 
 .gallery figure:last-child img {
