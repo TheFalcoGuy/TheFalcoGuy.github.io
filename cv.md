@@ -72,126 +72,191 @@ Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W.,
 
 <details>
 <summary><strong>The University of Texas at Austin - Undergraduate Researcher</strong></summary>
-  <details>
-  <summary>Quadratic Programming Controller Development (Dr. Efstathios Bakolas)</summary>
-    • Developed PID controller that allows for stability control of dynamic systems via Quadratic Programming
-    • Created wireless interface between microcontroller and dynamic system for autonomy research
-  </details>
+
+<p>
+<strong>Project:</strong> Quadratic Programming Controller Development<br>
+<strong>Advisor: Dr. Efstathios Bakolas</strong>
+</p>
+
+<ul>
+  <li>Developed PID controller that allows for stability control of dynamic systems via Quadratic Programming</li>
+  <li>Created wireless interface between microcontroller and dynamic system for autonomy research</li>
+</ul>
+
 </details>
 
 ## Work Experience
 <details>
 <summary><strong>Jet Propulsion Laboratory - Hardware Quality Assurance Engineer</strong></summary>
-  <details>
-  <summary>Hardware Quality Assurance Engineer</summary>
-    • Trained in JPL internal practices to inspecting/qualifying spaceflight hardware
-    • Assisted in inspection operations for in-situ hardware development (Mars 2020 – PIXL)
-    • Participated in Assembly and Testing of spacecraft system (NISAR)
-    • Reviewed flight project inspection reports for potential auxiliary effects 
-  </details>
+
+<p>
+<strong>Title:</strong> Hardware Quality Assurance Engineer
+</p>
+
+<ul>
+  <li>Trained in JPL internal practices to inspecting/qualifying spaceflight hardware</li>
+  <li>Assisted in inspection operations for in-situ hardware development (Mars 2020 – PIXL)</li>
+  <li>Participated in Assembly and Testing of spacecraft system (NISAR)</li>
+  <li>Reviewed flight project inspection reports for potential auxiliary effects</li> 
+</ul>
+
 </details>
 
 <details>
 <summary><strong>Texas Spacecraft Laboratory - Spacecraft/Satellite Research and Development Engineer</strong></summary>
-  <details>
-  <summary>Flight Hardware Researcher/Specialist</summary>
-    • Led FPGA selection and satellite computer/control system hardware development 
-    • Aided in design of customized I/O board to support neural network based logic computer 
-    • Selected, specified, and verified vendor supplied I2C/SPI sensors for flight performance payload 
-    • Wrote and debugged various Python based scripts to be utilized on flight performance computers
-    • Drafted and finalized satellite system performance/design requirements
-  </details>
+
+<p>
+<strong>Title:</strong> Flight Hardware Researcher/Specialist
+</p>
+
+<ul>
+  <li>Led FPGA selection and satellite computer/control system hardware development</li>
+  <li>Aided in design of customized I/O board to support neural network based logic computer</li> 
+  <li>Selected, specified, and verified vendor supplied I2C/SPI sensors for flight performance payload</li> 
+  <li>Wrote and debugged various Python based scripts to be utilized on flight performance computers</li>
+  <li>Drafted and finalized satellite system performance/design requirements</li>
+</ul>
+
 </details>
 
 <details>
 <summary><strong>Walt Disney Imagineering - Professional Internship</strong></summary>
-  <details>
-  <summary>Show Mechanical Engineer</summary>
-    • Designed mechanical assemblies for Advanced Audio-Animatronics
-    • Performed rigid body dynamic (RBD) analyses of anthropomorphic/non-anthropomorphic motion envelops
-    • Selected and organized electric motor drives, encoders, and connectors for in design audio-animatronics
-    • Specified connectors subject to environmental, maintenance, and space constraints 
-    • Developed functional prototype from servo motors for finalist PitchFest 2018 presentation
-    • Supported wiring layout for customized breakout boards for encoders and motor drives 
-  </details>
+
+<p>
+<strong>Title:</strong> Show Mechanical Engineer
+</p>
+
+<ul>
+  <li>Designed mechanical assemblies for Advanced Audio-Animatronics</li>
+  <li>Performed rigid body dynamic (RBD) analyses of anthropomorphic/non-anthropomorphic motion envelops</li>
+  <li>Selected and organized electric motor drives, encoders, and connectors for in design audio-animatronics</li>
+  <li>Specified connectors subject to environmental, maintenance, and space constraints</li>
+  <li>Developed functional prototype from servo motors for finalist PitchFest 2018 presentation</li>
+  <li>Supported wiring layout for customized breakout boards for encoders and motor drives</li>
+</ul>
+
 </details>
 
 <details>
 <summary><strong>Walt Disney World Resort - Professional Internship</strong></summary>
-  <details>
-  <summary>Quality/Safety Engineer</summary>
-    • Actively participated in development of ASTM standard for Steam Train Locomotives
-    • Performed auditing of Walt Disney World attractions for state safety requirements compliance
-    • Assisted in BIM environment development for various Walt Disney World attractions
-    • Directed and collected attraction lighting data for guest safety studies
-  </details>
+
+<p>
+<strong>Title:</strong> Quality/Safety Engineer
+</p>
+
+<ul>
+  <li>Actively participated in development of ASTM standard for Steam Train Locomotives</li>
+  <li>Performed auditing of Walt Disney World attractions for state safety requirements compliance</li>
+  <li>Assisted in BIM environment development for various Walt Disney World attractions</li>
+  <li>Directed and collected attraction lighting data for guest safety studies</li>
+</ul>
+
 </details>
 
 <details>
 <summary><strong>NASA Johnson Space Center - Pathways Intern / Co-op</strong></summary>
-  <details>
-  <summary>Propulsion Systems Engineer</summary>
-    • Developed industry baseline parameters for hypergolic startup ignitions
-    • Conducted thermal load testing and X-Ray evaluation on experimental composite propellant tanks
-    • Performed Computational Fluid Dynamics (CFD) on various hypergolic propellant interactions
-  </details>
-  <details>
-  <summary>Propulsion Systems Engineer</summary>
-    • Developed structural design and integration of Mars Ascent Vehicle (MAV) propulsion system
-    • Fabricated and integrated support structure for propellant system on Morpheus vehicle  
-    • Performed testing/validation of insulation for prototype cryogenic propellant COPV
-  </details>
-  <details>
-  <summary>Space Suit Engineer</summary>
-    • Conducted hazard analysis and testing on space suit and pressure garment materials 
-    • Developed space suit internal architecture analog for reliability and safety assurance
-    • Tested and performed anthropometric analysis on Z-2 space suit 
-    • Designed, drafted, and machined component enhancements for space suit soft goods 
-    • Designed and integrated electric drive motor system for space suit tribosystem experiment
-  </details>
-  <details>
-  <summary>Portable Life Support Systems Engineer</summary>
-    • Performed rapid prototyping of critical space suit life support component 
-    • Designed and installed space suit ventilation filtration system 
-  </details>
-  <details>
-  <summary>Operational Engineer/Diver, Neutral Buoyancy Laboratory</summary>
-    • Developed and supervised data acquisition/instrumentation infrastructure for hydrodynamic loading experiment
-    • Tested and evaluated oceanic conditions inside pool environment for feasibility studies
-  </details>
-  <details>
-  <summary>International Space Station (ISS) Flight Controller, ETHOS</summary>
-    • Actively monitored and maintained ISS Life Support and Internal Cooling Systems
-    • Trained Astronauts and Cosmonauts on ISS emergency response 
-  </details>
+
+<p>
+<strong>Title:</strong> Propulsion Systems Engineer
+</p>
+
+<ul>
+  <li>Developed industry baseline parameters for hypergolic startup ignitions</li>
+  <li>Conducted thermal load testing and X-Ray evaluation on experimental composite propellant tanks</li>
+  <li>Performed Computational Fluid Dynamics (CFD) on various hypergolic propellant interactions</li>
+</ul>
+
+<p>
+<strong>Title:</strong> Propulsion Systems Engineer
+</p>
+
+<ul>
+  <li>Developed structural design and integration of Mars Ascent Vehicle (MAV) propulsion system</li>
+  <li>Fabricated and integrated support structure for propellant system on Morpheus vehicle</li>
+  <li>Performed testing/validation of insulation for prototype cryogenic propellant COPV</li>
+</ul>
+
+<p>
+<strong>Title:</strong> Space Suit Engineer
+</p>
+
+<ul>
+  <li>Conducted hazard analysis and testing on space suit and pressure garment materials</li>
+  <li>Developed space suit internal architecture analog for reliability and safety assurance</li>
+  <li>Tested and performed anthropometric analysis on Z-2 space suit</li>
+  <li>Designed, drafted, and machined component enhancements for space suit soft goods</li> 
+  <li>Designed and integrated electric drive motor system for space suit tribosystem experiment</li>
+</ul>
+
+<p>
+<strong>Title:</strong> Portable Life Support Systems Engineer
+</p>
+
+<ul>
+  <li>Performed rapid prototyping of critical space suit life support component</li>
+  <li>Designed and installed space suit ventilation filtration system</li>
+</ul>
+
+<p>
+<strong>Title:</strong> Operational Engineer/Diver, Neutral Buoyancy Laboratory
+</p>
+
+<ul>
+  <li>Developed and supervised data acquisition/instrumentation infrastructure for hydrodynamic loading experiment</li>
+  <li>Tested and evaluated oceanic conditions inside pool environment for feasibility studies</li>
+</ul>
+
+<p>
+<strong>Title:</strong> International Space Station (ISS) Flight Controller, ETHOS
+</p>
+
+<ul>
+  <li>Actively monitored and maintained ISS Life Support and Internal Cooling Systems</li>
+  <li>Trained Astronauts and Cosmonauts on ISS emergency response</li>
+</ul>
+
 </details>
 
 <details>
 <summary><strong>Lockheed Martin Aeronautics - Internship</strong></summary>
-  <details>
-  <summary>F35 and Skunkworks Analyst</summary>
-    • Performed Finite Element Analysis (FEA) on F35 composites
-    • Performed Computational Fluid Dynamics (CFD) on Skunkworks proprietary hardware
-    • Supported Materials Review Board (MRB) team to improve F35 work floor productivity 
-  </details>
-  <details>
-  <summary>Jet Engine Engineer, Commercial Engine Solutions</summary>
-    • Optimized and supervised Maintenance, Repair, and Overhaul (MRO) processes for work floor 
-    • Developed Failure Mode and Effects Analysis (FMEA) models of various jet engines 
-    • Improved Quality Control (QC) toolset for jet engine development 
-    • Executed Critical Process Control (CPC) data analysis on work floor 
-  </details>
+
+<p>
+<strong>Title:</strong> F35 and Skunkworks Analyst
+</p>
+
+<ul>
+  <li>Performed Finite Element Analysis (FEA) on F35 composites</li>
+  <li>Performed Computational Fluid Dynamics (CFD) on Skunkworks proprietary hardware</li>
+  <li>Supported Materials Review Board (MRB) team to improve F35 work floor productivity</li>
+</ul>
+
+<p>
+<strong>Title:</strong> Jet Engine Engineer, Commercial Engine Solutions
+</p>
+
+<ul>
+  <li>Optimized and supervised Maintenance, Repair, and Overhaul (MRO) processes for work floor</li>
+  <li>Developed Failure Mode and Effects Analysis (FMEA) models of various jet engines</li>
+  <li>Improved Quality Control (QC) toolset for jet engine development</li>
+  <li>Executed Critical Process Control (CPC) data analysis on work floor</li>
+</ul>
+
 </details>
 
 <details>
 <summary><strong>NASA Kennedy Space Center - Internship</strong></summary>
-  <details>
-  <summary>Cryogenics Testing Engineer</summary>
-    • Experimented on new launch pad support materials and multi-layer insulation  
-    • Constructed and tested various cryogenic storage and transfer launch pad hardware 
-    • Performed thermodynamic experimentation on proposed Space Launch System (SLS) insulation foams 
-    • Designed, specified, and integrated thermal measurement system for cryogenic wicking experiment
-  </details>
+
+<p>
+<strong>Title:</strong> Cryogenics Testing Engineer
+</p>
+
+<ul>
+  <li>Experimented on new launch pad support materials and multi-layer insulation</li>
+  <li>Constructed and tested various cryogenic storage and transfer launch pad hardware</li> 
+  <li>Performed thermodynamic experimentation on proposed Space Launch System (SLS) insulation foams</li> 
+  <li>Designed, specified, and integrated thermal measurement system for cryogenic wicking experiment</li>
+</ul>
+
 </details>
 
 ## Awards
