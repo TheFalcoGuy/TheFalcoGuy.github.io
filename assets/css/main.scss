@@ -17,6 +17,13 @@ search: false
   object-fit: contain !important;
 }
 
+// Center aligned gallery
+.page__content figure.half.align-center {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 // Problem gallery images - larger size (higher specificity)
 .page__content figure.half img[alt="Exertion Graph"],
 .page__content figure.half img[alt="Falling Article"] {

@@ -106,6 +106,12 @@ collections:
  projects:
   output: true
   permalink: /:collection/:name/
+  order:
+    - systems_analysis.md
+    - systems_analysis_2.md
+    - design_analysis.md
+    - task_usage_analysis.md
+    - control_analysis.md
 
 markdown: kramdown
 kramdown:

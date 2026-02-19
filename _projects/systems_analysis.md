@@ -1,6 +1,8 @@
 ---
-title: "Systems Analysis of SuperLimbs being incorporated as a Astronaut Assistive Device (Micro-Gravity)"
+title: "Investigating the feasibility of SuperLimbs in a micro-gravity environment"
 layout: single
+order: 1
+excerpt: " "
 
 publication_gallery:
   - image_path: /assets/images/Logos/ICRA_2023_Logo.png
@@ -20,27 +22,31 @@ results_deflection_gallery:
     caption: "Deflection of astronaut CoM under applied load in Z direction"
 ---
 
-{% include gallery id="publication_gallery" %}
-
 ## Overview
 
-This study investigates the use case of incorporating Supernumerary Robotic Limbs (known as SuperLimbs) as an assistive device for astronaut performing an EVA in a micro-gravity environment (in this case, an EVA at the International Space Station). The SuperLimbs grab handrails fixed to the outside of a space vehicle to securely hold the astronaut body. The astronaut can use both hands for performing an EVA task, rather than using one hand for securing the body or operating a tether. The SuperLimbs can also assist an astronaut in repositioning the body and stabilizing it during an EVA mission. A control algorithm based on Admittance Control is developed for a: virtually reducing the inertial load of the entire body so that an astronaut can reposition his/her body with reduced effort, and b: bracing the body stably despite reaction forces and disturbances acting on the astronaut during an EVA operation. A full-scale prototype of Space Suit SuperLimbs was constructed and tested. Results from the experimentation indicated that with the aid of SuperLimbs, energy consumption during EVAs is reduced significantly.
+This study investigates the use case of incorporating Supernumerary Robotic Limbs (known as SuperLimbs) as an assistive device for astronaut performing an EVA in a micro-gravity environment (in this case, an EVA at the International Space Station). 
 
-[[Conference Poster PDF]](/assets/images/ICRA_2023/ICRA_2023_Poster.pdf)
+The SuperLimbs grab handrails fixed to the outside of a space vehicle to securely hold the astronaut body. The astronaut can use both hands for performing an EVA task, rather than using one hand for securing the body or operating a tether. The SuperLimbs can also assist an astronaut in repositioning the body and stabilizing it during an EVA mission. A control algorithm based on Admittance Control is developed for 
+
+a: virtually reducing the inertial load of the entire body so that an astronaut can reposition his/her body with reduced effort, and 
+
+b: bracing the body stably despite reaction forces and disturbances acting on the astronaut during an EVA operation. 
+
+A full-scale prototype of Space Suit SuperLimbs was constructed and tested. Results from the experimentation indicated that with the aid of SuperLimbs, energy consumption during EVAs is reduced significantly.
 
 ## Relevant Publications
+
+{% include gallery id="publication_gallery" layout="half" class="align-center" %}
 
 1. **Ballesteros, E.** & Asada, H. H. (2022). Integrating Supernumerary Robotic Limbs onto the xEMU spacesuit to enhance astronaut capabilities and efficiency in Extra-Vehicular Activities. *2022 ACM Conference on Human Interaction (SpaceCHI2.0)*, 2022.
 
 2. **Ballesteros, E.**, Man, B., & Asada, H. H. (2023). Supernumerary Robotic Limbs for Next Generation Space Suit Technology. *2023 IEEE International Conference on Robotics and Automation (ICRA)*, 7519-7525. https://doi.org/10.1108/ICRA48891.2023.10161579 [[PDF]](/assets/papers/ICRA_2023.pdf){:target="_blank"} [[Video]](https://youtube.com/watch?v=Wed7JAyfLyA){:target="_blank"}
 
-## System Architecture
+3. Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Movement using Robotic Limbs (Patent No. WO 2023/212212 A2). World Intellectural Property Organization.
 
-![Architecture Diagram](/assets/images/ICRA_2023/ICRA_2023_Graphical_Abstract.png)
+## Conference Poster
 
-## Results
-
-{% include gallery id="results_deflection_gallery" %}
+<iframe src="/assets/images/ICRA_2023/ICRA_2023_Poster.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 ## Video Demo
 

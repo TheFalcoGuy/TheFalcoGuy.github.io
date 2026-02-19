@@ -1,6 +1,8 @@
 ---
 title: "Control of Supernumerary Robotic Limbs for the Augmentation of Astronauts performing Partial-Gravity Extra-Vehicular Activities (EVAs)"
 layout: single
+order: 4
+excerpt: " "
 ---
 
 ## Overview

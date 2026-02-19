@@ -1,6 +1,8 @@
 ---
 title: "Investigating Design Requirements for End-Effectors of SuperLimbs System"
 layout: single
+order: 5
+excerpt: " "
 ---
 
 ## Overview
