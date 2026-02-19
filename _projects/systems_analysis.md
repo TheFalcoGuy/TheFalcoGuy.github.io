@@ -38,7 +38,7 @@ A full-scale prototype of Space Suit SuperLimbs was constructed and tested. Resu
 
 {% include gallery id="publication_gallery" layout="half" class="align-center" %}
 
-1. **Ballesteros, E.** & Asada, H. H. (2022). Integrating Supernumerary Robotic Limbs onto the xEMU spacesuit to enhance astronaut capabilities and efficiency in Extra-Vehicular Activities. *2022 ACM Conference on Human Interaction (SpaceCHI2.0)*, 2022.
+1. **Ballesteros, E.** & Asada, H. H. (2022). Integrating Supernumerary Robotic Limbs onto the xEMU spacesuit to enhance astronaut capabilities and efficiency in Extra-Vehicular Activities. *2022 ACM Conference on Human Interaction (SpaceCHI2.0)*, 2022. [[PDF]](/assets/papers/ACM_SpaceCHI2.0_2022.pdf)
 
 2. **Ballesteros, E.**, Man, B., & Asada, H. H. (2023). Supernumerary Robotic Limbs for Next Generation Space Suit Technology. *2023 IEEE International Conference on Robotics and Automation (ICRA)*, 7519-7525. https://doi.org/10.1108/ICRA48891.2023.10161579 [[PDF]](/assets/papers/ICRA_2023.pdf){:target="_blank"} [[Video]](https://youtube.com/watch?v=Wed7JAyfLyA){:target="_blank"}
 

@@ -18,4 +18,4 @@ permalink: /publications/
 
 ## Workshop Papers
 
-1. **Ballesteros, E.** & Asada, H. H. (2022). Integrating Supernumerary Robotic Limbs onto the xEMU spacesuit to enhance astronaut capabilities and efficiency in Extra-Vehicular Activities. *2022 ACM Conference on Human Interaction (SpaceCHI2.0)*, 2022.
+1. **Ballesteros, E.** & Asada, H. H. (2022). Integrating Supernumerary Robotic Limbs onto the xEMU spacesuit to enhance astronaut capabilities and efficiency in Extra-Vehicular Activities. *2022 ACM Conference on Human Interaction (SpaceCHI2.0)*, 2022. [[PDF]](/assets/papers/ACM_SpaceCHI2.0_2022.pdf)
