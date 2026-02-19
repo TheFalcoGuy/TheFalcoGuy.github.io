@@ -38,7 +38,7 @@ collaborator_gallery:
 *To develop a pair of wearable robotic appendages (SuperLimbs) to augment astronauts to provide improved ergonomics and capabilities while wearing a pressurized space suit.*
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/mixpLtwkn-w?autoplay=1&mute=1&loop=1&playlist=mixpLtwkn-w"
+src="https://youtube.com/embed/fAIHCmRTrUg"
 frameborder="0"
 allow="autoplay; encrypted-media"
 allowfullscreen></iframe>
