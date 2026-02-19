@@ -30,7 +30,7 @@ collaborator_gallery:
     image_path: /assets/images/Logos/JSC_ER_Logo.png
     alt: "JSC EA Logo"
 
-    use_case_gallery:
+use_case_gallery:
   - image_path: /assets/images/Renderings/Inspection_1.png
     alt: "Astronaut Safety Concept"
   - image_path: /assets/images/Renderings/Manipulation_2.png
@@ -62,7 +62,7 @@ For exploring the potentials of SuperLimbs in future EVAs, 3 key objectives must
 2. **Improve astronaut productivity** – With SuperLimbs the astronaut’s body can be secured so that the astronaut can focus on task execution using both hands. Furthermore, SuperLimbs can streamline and expedite task execution with the two extra hands. 
 3. **Mitigate metabolic loading conditions** - With SuperLimbs, an astronaut’s workload and ergonomics can be improved to minimize metabolic consumption. 
 
-{% include gallery id="use_case_gallery" class="align-left" %}
+{% include gallery id="use_case_gallery" %}
 
 To meet these key objectives we will investigate:
 
@@ -73,6 +73,8 @@ To meet these key objectives we will investigate:
 
 2. Quadruped Coordination – When two additional appendages are coordinated with an astronaut’s legs, Quadruped functions can be created. We will investigate how the astronaut’s limbs and the SuperLimbs can be best coordinated. This functional analysis will inform the structure and design of SuperLimbs and frame the control and communication problems of the astronaut-SuperLimbs system.
 
-[NASA STMD Tech Port Profile](https://techport.nasa.gov/projects/156352)
-
 SuperLimbs fundamentally changes how humans interact with the physical world around them. In a world where AI and automation is phasing out human workers; we aim to evolve humans by **expanding** their physical capabilties, **augmenting** their strength and abilities, and **reinventing** how a human works in an ever-changing world.
+
+*This project is sponsored by the NASA Space Technology Graduate Research Opportunity (NSTGRO) Fellowship, Grant Number 80NSSC23K1207.* 
+
+[NASA STMD Tech Port Profile](https://techport.nasa.gov/projects/156352)
