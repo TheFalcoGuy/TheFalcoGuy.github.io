@@ -12,7 +12,7 @@ publication_gallery:
 
 ## Overview
 
-This article presents a methodology for the design of a pair of wearable robotic appendages, known as Supernumerary Robotic Limbs, or SuperLimbs for short. Specifically, we aim to design SuperLimbs for assisting astronauts while they perform partial-gravity Extra-Vehicular Activities (EVAs) on the Moon. NASA has identified recovering from a fall as a high-risk process needing an effective countermeasure. 
+This study presents a methodology for the design of a pair of wearable robotic appendages, known as Supernumerary Robotic Limbs, or SuperLimbs for short. Specifically, we aim to design SuperLimbs for assisting astronauts while they perform partial-gravity Extra-Vehicular Activities (EVAs) on the Moon. NASA has identified recovering from a fall as a high-risk process needing an effective countermeasure. 
 
 Preliminary human study data discovered uniform behavior in astronaut's poses as they performed a post-fall recovery wearing a space suit assembly. Based on this observation, this paper presents a complementary biomechanical model which estimates the torques required by an astronaut to navigate their body through a post-fall recovery. By comparing maximum allowable joint torques of the astronaut with the required joint torques, we identify the gap that SuperLimbs must fill by exerting necessary forces along a desired trajectory. 
 
