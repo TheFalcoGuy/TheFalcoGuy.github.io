@@ -17,6 +17,15 @@ search: false
   object-fit: contain !important;
 }
 
+// Problem gallery images - larger size (higher specificity)
+.page__content figure.half img[alt="Exertion Graph"],
+.page__content figure.half img[alt="Falling Article"] {
+  max-height: 400px !important;
+  width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+
 // Custom styles for logos in gallery
 img[alt="JSC EA Logo"] {
   max-height: 200px !important;
@@ -48,6 +57,7 @@ img[alt="IJRR Logo"] {
   width: auto !important;
   object-fit: contain !important;
 }
+
 img[alt="MIT Logo"] {
   max-height: 150px !important;
   width: auto !important;
@@ -70,6 +80,16 @@ img[alt="HSL Logo"] {
 }
 img[alt="d-Lab Logo"] {
   max-height: 150px !important;
+  width: auto !important;
+  object-fit: contain !important;
+}
+img[alt="Exertion Graph"] {
+  max-height: 300px !important;
+  width: auto !important;
+  object-fit: contain !important;
+}
+img[alt="Falling Article"] {
+  max-height: 300px !important;
   width: auto !important;
   object-fit: contain !important;
 }

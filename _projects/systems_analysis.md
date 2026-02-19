@@ -32,7 +32,7 @@ This study investigates the use case of incorporating Supernumerary Robotic Limb
 
 1. **Ballesteros, E.** & Asada, H. H. (2022). Integrating Supernumerary Robotic Limbs onto the xEMU spacesuit to enhance astronaut capabilities and efficiency in Extra-Vehicular Activities. *2022 ACM Conference on Human Interaction (SpaceCHI2.0)*, 2022.
 
-2. **Ballesteros, E.**, Man, B., & Asada, H. H. (2023). Supernumerary Robotic Limbs for Next Generation Space Suit Technology. *2023 IEEE International Conference on Robotics and Automation (ICRA)*, 7519-7525. https://doi.org/10.1108/ICRA48891.2023.10161579 [[PDF]](/assets/papers/ICRA_2023.pdf) [[Video]](https://youtube.com/watch?v=Wed7JAyfLyA)
+2. **Ballesteros, E.**, Man, B., & Asada, H. H. (2023). Supernumerary Robotic Limbs for Next Generation Space Suit Technology. *2023 IEEE International Conference on Robotics and Automation (ICRA)*, 7519-7525. https://doi.org/10.1108/ICRA48891.2023.10161579 [[PDF]](/assets/papers/ICRA_2023.pdf){:target="_blank"} [[Video]](https://youtube.com/watch?v=Wed7JAyfLyA){:target="_blank"}
 
 ## System Architecture
 

@@ -8,6 +8,7 @@ permalink: /team/
 .team-member {
   display: flex;
   align-items: flex-start;
+  gap: 1.5rem;
   margin-bottom: 2rem;
   padding-bottom: 2rem;
   border-bottom: 1px solid #e0e0e0;
@@ -21,7 +22,10 @@ permalink: /team/
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  margin-right: 1.5rem;
+}
+.team-info {
+  flex: 1;
+  min-width: 0;
 }
 .team-info h3 {
   margin-top: 0;

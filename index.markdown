@@ -77,4 +77,4 @@ SuperLimbs fundamentally changes how humans interact with the physical world aro
 
 *This project is sponsored by the NASA Space Technology Graduate Research Opportunity (NSTGRO) Fellowship, Grant Number 80NSSC23K1207.* 
 
-[NASA STMD Tech Port Profile](https://techport.nasa.gov/projects/156352)
+[NASA STMD Tech Port Profile](https://techport.nasa.gov/projects/156352){:target="_blank"}
