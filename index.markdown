@@ -53,7 +53,7 @@ frameborder="0"
 allow="autoplay; encrypted-media"
 allowfullscreen></iframe>
 
-## What are Supernumerary Robotic Limbs (SuperLimbs)?
+## What are SuperLimbs?
 
 ![SuperLimbs Philosophy](/assets/images/SuperLimbs_Philosophy.png)
 
