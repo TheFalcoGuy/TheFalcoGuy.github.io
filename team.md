@@ -51,7 +51,7 @@ permalink: /team/
 <div class="team-member">
   <a href="https://meche.mit.edu/people/faculty/asada%40mit.edu" target="_blank"><img src="/assets/images/Harry.jpeg" alt="Harry Asada" class="team-photo"></a>
   <div class="team-info">
-    <h3>Harry H. Asada</h3>
+    <h3>Dr. Harry H. Asada</h3>
     <p><strong>Role:</strong> Academic Advisor (Committee Chair)</p>
     <p>Ford Professor of Engineering - MIT Department of Mechanical Engineering</p>
   </div>
@@ -60,7 +60,7 @@ permalink: /team/
 <div class="team-member">
   <a href="https://aeroastro.mit.edu/people/jeffrey-a-hoffman/" target="_blank"><img src="/assets/images/Jeff.jpg" alt="Jeffrey Hoffman" class="team-photo"></a>
   <div class="team-info">
-    <h3>Jeffrey Hoffman</h3>
+    <h3>Dr. Jeffrey Hoffman</h3>
     <p><strong>Role:</strong> Academic Advisory Committee Member</p>
     <p>Former Space Shuttle Astronaut, Professor of the Practice - MIT Department of Aeronautical and Aerospace Engineering</p>
   </div>
@@ -69,7 +69,7 @@ permalink: /team/
 <div class="team-member">
   <a href="https://meche.mit.edu/people/faculty/MCYANG@MIT.EDU" target="_blank"><img src="/assets/images/Maria.jpg" alt="Maria Yang" class="team-photo"></a>
   <div class="team-info">
-    <h3>Maria Yang</h3>
+    <h3>Dr. Maria Yang</h3>
     <p><strong>Role:</strong> Academic Advisory Committee Member</p>
     <p>Vice Provost for Faculty, Professor - MIT Department of Mechanical Engineering</p>
   </div>
@@ -109,7 +109,7 @@ permalink: /team/
 <div class="team-member">
   <a href="https://www.linkedin.com/in/sangyoep/" target="_blank"><img src="/assets/images/Sang-Yoep.png" alt="Sang-Yoep Lee" class="team-photo"></a>
   <div class="team-info">
-    <h3>Sang-Yoep Lee</h3>
+    <h3>Dr. Sang-Yoep Lee</h3>
     <p><strong>Role:</strong> Post-Doc Researcher (Former)</p>
     <p>Mechanical Engineering - MIT Department of Mechanical Engineering</p>
   </div>
@@ -145,7 +145,7 @@ permalink: /team/
 <div class="team-member">
   <a href="https://www.linkedin.com/in/bma2026/" target="_blank"><img src="/assets/images/Beverly.jpeg" alt="Beverly Ma" class="team-photo"></a>
   <div class="team-info">
-    <h3>Brandon Man</h3>
+    <h3>Beverly Ma</h3>
     <p><strong>Role:</strong> Undergraduate Researcher (Former)</p>
     <p>Aerospace Engineering Major - MIT Department of Aeronautical and Aerospace Engineering</p>
   </div>
