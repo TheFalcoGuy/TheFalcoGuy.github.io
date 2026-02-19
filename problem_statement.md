@@ -12,9 +12,13 @@ problem_gallery:
     alt: "Falling Article"
 ---
 
-<a href="https://arstechnica.com/space/2026/01/former-astronaut-on-lunar-spacesuits-i-dont-think-theyre-great-right-now/" target="_blank"><img src="/assets/images/Falling_1.png" alt="Problem Article"></a>
+<div style="text-align: center;">
+  <a href="https://arstechnica.com/space/2026/01/former-astronaut-on-lunar-spacesuits-i-dont-think-theyre-great-right-now/" target="_blank"><img src="/assets/images/Falling_1.png" alt="Problem Article"></a>
+</div>
 
-![Quote 1](/assets/images/Quote_1.png)
+<div style="text-align: center;">
+  <img src="/assets/images/Quote_1.png" alt="Quote 1">
+</div>
 
 ## Risks associated with suited Extra-Vehicular Activities (EVAs)
 
@@ -31,11 +35,15 @@ problem_gallery:
 
 <p><em>Astronauts exert high torques to overcome space suit pressure and mass to achieve specific work tasks</em></p>
 
-<a href="https://pubmed.ncbi.nlm.nih.gov/18064912/" target="_blank"><img src="/assets/images/Exertion_1.png" alt="Exertion Graph"></a>
+<div style="text-align: center;">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/18064912/" target="_blank"><img src="/assets/images/Exertion_1.png" alt="Exertion Graph"></a>
+</div>
 
 </details>
 
-![Quote 2](/assets/images/Quote_2.png)
+<div style="text-align: center;">
+  <img src="/assets/images/Quote_2.png" alt="Quote 2">
+</div>
 
 <details>
 <summary><strong>Identified Risk:</strong> Astronauts falling during space walk</summary>
@@ -50,14 +58,18 @@ problem_gallery:
 
 <p><em>Astronaut falls must be treated like elderly falling, <strong>falls can result in catastrophic failures</strong></em></p>
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/bVNTNeNMH8Q?autoplay=1&mute=1&loop=1&playlist=bVNTNeNMH8Q"
-frameborder="0"
-allow="autoplay; encrypted-media"
-allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/bVNTNeNMH8Q?autoplay=1&mute=1&loop=1&playlist=bVNTNeNMH8Q"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen></iframe>
+</div>
 
 </details>
 
-![Quote 3](/assets/images/Quote_3.png)
+<div style="text-align: center;">
+  <img src="/assets/images/Quote_3.png" alt="Quote 3">
+</div>
 
 These risks are unaddressed and no comparable safety countermeasures have been proven.
