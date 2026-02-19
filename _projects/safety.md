@@ -1,7 +1,7 @@
 ---
-title: "Design of End-Effectors for the SuperLimbs-T1.0 Prototype"
+title: "Development of safety systems for human testing with the Superlimbs-T1.0 Prototype"
 layout: single
-order: 5
+order: 6
 excerpt: " "
 ---
 
