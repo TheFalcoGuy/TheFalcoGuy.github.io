@@ -33,6 +33,6 @@ This study proposes the utilization of Supernumerary Robotic Limbs (SuperLimbs) 
 ## Video Demo
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=4poNOVQjxEg"
+src="https://www.youtube.com/embed/4poNOVQjxEg"
 frameborder="0"
 allowfullscreen></iframe>
