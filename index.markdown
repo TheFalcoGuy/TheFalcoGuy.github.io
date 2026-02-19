@@ -29,6 +29,14 @@ collaborator_gallery:
   - url: https://www.nasa.gov/johnson/
     image_path: /assets/images/Logos/JSC_ER_Logo.png
     alt: "JSC EA Logo"
+
+    use_case_gallery:
+  - image_path: /assets/images/Renderings/Inspection_1.png
+    alt: "Astronaut Safety Concept"
+  - image_path: /assets/images/Renderings/Manipulation_2.png
+    alt: "Astronaut Productivity Concept"
+  - image_path: /assets/images/Renderings/Gait_Up_Incline.png
+    alt: "Astronaut Energetics Concept"
 ---
 
 {% include gallery id="collaborator_gallery" %}
@@ -38,7 +46,7 @@ collaborator_gallery:
 *To develop a pair of wearable robotic appendages (SuperLimbs) to augment astronauts to provide improved ergonomics and capabilities while wearing a pressurized space suit.*
 
 <iframe width="560" height="315"
-src="https://youtube.com/embed/fAIHCmRTrUg"
+src="https://www.youtube.com/embed/fAIHCmRTrUg?autoplay=1&mute=1"
 frameborder="0"
 allow="autoplay; encrypted-media"
 allowfullscreen></iframe>
@@ -53,6 +61,8 @@ For exploring the potentials of SuperLimbs in future EVAs, 3 key objectives must
 1. **Enhance astronaut safety** - With SuperLimbs, a multitude of safety measures can be created to mitigate various safety risks during EVAs. 
 2. **Improve astronaut productivity** – With SuperLimbs the astronaut’s body can be secured so that the astronaut can focus on task execution using both hands. Furthermore, SuperLimbs can streamline and expedite task execution with the two extra hands. 
 3. **Mitigate metabolic loading conditions** - With SuperLimbs, an astronaut’s workload and ergonomics can be improved to minimize metabolic consumption. 
+
+{% include gallery id="use_case_gallery" %}
 
 To meet these key objectives we will investigate:
 
