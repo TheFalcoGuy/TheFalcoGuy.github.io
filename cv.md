@@ -24,7 +24,7 @@ M.S., Mechanical Engineering (2023)
 B.S., Aerospace Engineering (2019)
 
 ## Patents
-Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Movement using Robotic Limbs (Patent No. WO 2023/212212 A2). World Intellectural Property Organization.
+Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Movement using Robotic Limbs (Patent No. WO 2023/212212 A2). World Intellectual Property Organization.
 
 ## Other Publications (Outside Masters/Ph.D. Research)
 Delaune, J., Izraelevitz, J., Young, L., Rapin, W., Sklyanskiy, E., Johnson, W., Schutte, A., Fraeman, A., Scott, V., Leake, C., **Ballesteros, E.**, Withrow, S., Bhagwat, R., Cummings, H., Aaron, K., Veismann, M., Wei, S., Lee, R., Madrid, L. P., Gharib, M., and Brudick, J. (2020). Motivations and Preliminary Design for Mid-Air Deployment of a Science Rotorcraft on Mars, *2020 AIAA ASCEND Conference*.

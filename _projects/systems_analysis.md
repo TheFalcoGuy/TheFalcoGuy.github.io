@@ -42,7 +42,7 @@ A full-scale prototype of Space Suit SuperLimbs was constructed and tested. Resu
 
 2. **Ballesteros, E.**, Man, B., & Asada, H. H. (2023). Supernumerary Robotic Limbs for Next Generation Space Suit Technology. *2023 IEEE International Conference on Robotics and Automation (ICRA)*, 7519-7525. https://doi.org/10.1108/ICRA48891.2023.10161579 [[PDF]](/assets/papers/ICRA_2023.pdf){:target="_blank"} [[Video]](https://youtube.com/watch?v=Wed7JAyfLyA){:target="_blank"}
 
-3. Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Movement using Robotic Limbs (Patent No. WO 2023/212212 A2). World Intellectural Property Organization.
+3. Asada, H. H., & **Ballesteros, E.** (2023). Systems and Methods for Assisting Movement using Robotic Limbs (Patent No. WO 2023/212212 A2). World Intellectual Property Organization.
 
 ## Conference Poster
 
@@ -50,7 +50,9 @@ A full-scale prototype of Space Suit SuperLimbs was constructed and tested. Resu
 
 ## Video Demo
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Wed7JAyfLyA"
-frameborder="0"
-allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/Wed7JAyfLyA"
+  frameborder="0"
+  allowfullscreen></iframe>
+</div>

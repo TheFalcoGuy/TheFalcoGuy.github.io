@@ -32,14 +32,18 @@ In order to validate this control scheme, a full-scale wearable analog space sui
 
 ## Video Demo (Preliminary Human Testing)
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/4poNOVQjxEg"
-frameborder="0"
-allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/4poNOVQjxEg"
+  frameborder="0"
+  allowfullscreen></iframe>
+</div>
 
 ## Video Demo (Control Tuning for Augmentation)
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/wED3lBVopq4"
-frameborder="0"
-allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/wED3lBVopq4"
+  frameborder="0"
+  allowfullscreen></iframe>
+</div>

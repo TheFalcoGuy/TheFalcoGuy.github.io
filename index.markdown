@@ -47,15 +47,19 @@ SuperLimbs fundamentally changes how humans interact with the physical world aro
 
 *To develop a pair of wearable robotic appendages to amplify astronauts to provide improved ergonomics and capabilities while wearing a pressurized space suit by **enhancing safety**, **improving productivity**, and **bolstering comfort**.*
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/fAIHCmRTrUg?autoplay=1&mute=1&loop=1&playlist=fAIHCmRTrUg"
-frameborder="0"
-allow="autoplay; encrypted-media"
-allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/fAIHCmRTrUg?autoplay=1&mute=1&loop=1&playlist=fAIHCmRTrUg"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen></iframe>
+</div>
 
 ## What are SuperLimbs?
 
-![SuperLimbs Philosophy](/assets/images/SuperLimbs_Philosophy.png)
+<div style="text-align: center;">
+  <img src="/assets/images/SuperLimbs_Philosophy.png" alt="SuperLimbs Philosophy">
+</div>
 
 Supernumerary Robotic Limbs (SuperLimbs) are a type of wearable robot attached to the body of a user. We propose to incorporate SuperLimbs onto space suits so that astronauts can utilize additional appendages for stability and augmentation. These SuperLimbs would work in coordination with the astronaut as a portable rigid tether, as well as a collaborative assistant in various EVA operations. SuperLimbs on space suits improves astronaut safety and reliability during EVAs. In addition, the application of SuperLimbs in EVAs presents unique challenges requiring novel solutions to human-robot coordination and intention detection. 
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Problem Statement"
-permalink: /problem statement/
+permalink: /problem-statement/
 
 problem_gallery:
   - url: https://pubmed.ncbi.nlm.nih.gov/18064912/

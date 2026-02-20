@@ -33,7 +33,9 @@ Based on the optimal design, an Earth-based prototype is built in-house at the N
 
 ## Video Demo
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/byLhhDbOsq4"
-frameborder="0"
-allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/byLhhDbOsq4"
+  frameborder="0"
+  allowfullscreen></iframe>
+</div>
