@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Design, Control, and Human-Robot Interaction of Space Suits Integrated with Supernumerary Robotic Limbs
+title: SuperLimbs - Empowering Humans through Robotic Augmentation
 logo: "/assets/images/Logos/SuperLimbs_Mission_Patch.png"
 email: balleste@mit.edu
 name: Erik Ballesteros
