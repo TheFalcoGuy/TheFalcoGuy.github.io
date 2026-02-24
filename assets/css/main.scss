@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
 
@@ -17,11 +16,37 @@ search: false
   object-fit: contain !important;
 }
 
+// Force half layout to display images in rows
+.page__content figure.half {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.page__content figure.half > a,
+.page__content figure.half > img {
+  flex: 0 0 calc(50% - 10px);
+  max-width: calc(50% - 10px);
+}
+
 // Center aligned gallery
 .page__content figure.half.align-center {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+// SuperEMU gallery images - larger size in 2x2 grid
+.page__content figure.half img[alt="SuperEMU 1"],
+.page__content figure.half img[alt="SuperEMU 2"],
+.page__content figure.half img[alt="SuperEMU 3"],
+.page__content figure.half img[alt="SuperEMU 4"] {
+  max-height: 350px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
 }
 
 // Concept gallery images on main page - larger size
