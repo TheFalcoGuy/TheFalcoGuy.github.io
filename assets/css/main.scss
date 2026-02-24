@@ -24,6 +24,16 @@ search: false
   flex-wrap: wrap;
 }
 
+// Concept gallery images on main page - larger size
+.page__content figure.third img[alt="Astronaut Safety Concept"],
+.page__content figure.third img[alt="Astronaut Productivity Concept"],
+.page__content figure.third img[alt="Astronaut Energetics Concept"] {
+  max-height: 200px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+
 // Problem gallery images - larger size (higher specificity)
 .page__content figure.half img[alt="Exertion Graph"],
 .page__content figure.half img[alt="Falling Article"] {
@@ -100,6 +110,16 @@ img[alt="Falling Article"] {
   width: auto !important;
   object-fit: contain !important;
 }
+.page__content figure.half img[alt="Test 1"] {
+  max-height: 300px !important;
+  width: auto !important;
+  object-fit: contain !important;
+}
+.page__content figure.half img[alt="Test 2"] {
+  max-height: 300px !important;
+  width: auto !important;
+  object-fit: contain !important;
+}
 img[alt="SuperLimbs Philosophy"] {
   max-height: 400px !important;
   width: auto !important;
@@ -165,4 +185,99 @@ details summary::-webkit-details-marker {
 .experience-block details {
   flex-grow: 1;
   margin-bottom: 0;
+}
+
+/* Project Timeline Styles */
+.project-timeline {
+  position: relative;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding-left: 40px;
+}
+
+.project-timeline::before {
+  content: '';
+  position: absolute;
+  left: 15px;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(to bottom, #494e52, #494e52 70%, transparent);
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 30px;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -32px;
+  top: 8px;
+  width: 16px;
+  height: 16px;
+  background: #494e52;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px #494e52;
+}
+
+.timeline-item:not(:last-child)::after {
+  content: '▼';
+  position: absolute;
+  left: -29px;
+  bottom: -20px;
+  font-size: 14px;
+  color: #494e52;
+}
+
+.timeline-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.timeline-item a:hover .timeline-content {
+  border-color: #494e52;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-content {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: all 0.2s ease;
+}
+
+.timeline-content h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+  color: #494e52;
+}
+
+.timeline-content p {
+  margin: 0;
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
+.timeline-item.upcoming .timeline-content {
+  background: #f8f9fa;
+  border-style: dashed;
+}
+
+.timeline-item.upcoming::before {
+  background: #fff;
+  border: 3px solid #494e52;
+  box-shadow: none;
+}
+
+.timeline-year {
+  font-size: 0.8rem;
+  color: #6c757d;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
 }
