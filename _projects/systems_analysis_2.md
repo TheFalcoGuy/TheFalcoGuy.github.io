@@ -75,6 +75,10 @@ From these experiments, the following key observations were made:
 
 ## Next Steps
 
+*Given the fact that astronauts take a sagittal motion during a post-fall recovery, design for a set of SuperLimbs to aid in this task can commence.*
+
+[Continue to Design Study →](/projects/design-analysis/)
+
 ## Relevant Publications
 
 {% include gallery id="publication_gallery" layout="half" class="align-center" %}
