@@ -25,6 +25,10 @@ Aligning with NASA's priorities (surface-based EVAs), we investigate the use cas
 
 *With SuperLimbs, we can aid astronauts recover safety from a fall 100% of the time.*
 
+<div style="text-align: center;">
+  <img src="/assets/images/ICRA_2024/Graphical_Abstract.jpg" alt="ICRA 2024 Abstract">
+</div>
+
 ## Problem Approach
 
 During an EVA on the surface of an extraterrestrial surface, such as the moon or Mars, astronauts are faced with several risks. Surface-based risks are associated with an unstructured surface and a lack of control/versatility with a pressurized space suit.
@@ -71,7 +75,9 @@ From these experiments, the following key observations were made:
 
 3. When wearing a space suit, the sample population all took the same uniform trajectory that was noticed during the partially constrained case, showing that astronauts, under unique loads from the space suit, take a conservative and predictable trajectory.
 
+To determine SuperLimbs' capabilities in assisting an astronaut with a post-fall recovery, a Universal Robots UR10e manipulator was utilized. The base of the robot was bolted to the ground while the end-effector was bolted to the bottom of the backpack assembly of the SuperEMU. The UR5e was controlled using a variable impedance controller.
 
+Human subjects were asked to stand in the SuperEMU from a fallen position, but were provided assistance from the UR10e. From these trials, we found a marginal improvement in the assistance from the UR10e, leading us to determine a dedicated SuperLimbs system is required to fully evaluate.
 
 ## Next Steps
 

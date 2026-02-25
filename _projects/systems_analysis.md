@@ -34,6 +34,10 @@ Beginning this project, we investigate the impact of using SuperLimbs in an imme
 
 *With SuperLimbs, we can reduce EVA fatigue by nearly 50% and expand reach by 1 m^2.*
 
+<div style="text-align: center;">
+  <img src="/assets/images/ICRA_2023/ICRA_2023_Graphical_Abstract.png" alt="ICRA 2023 Abstract">
+</div>
+
 ## Problem Approach
 
 During an EVA onboard the ISS, astronauts expend a significant amount of oxygen reserves performing "transfer operations", in which they move from one worksite to another. This is due to the fact that astronauts must move fight against the stiffness of their pressurized space suit to grab handrails and propel their bodies. 
