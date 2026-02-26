@@ -16,6 +16,7 @@
   {% endif %}
 {% endif %}
 
+
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}

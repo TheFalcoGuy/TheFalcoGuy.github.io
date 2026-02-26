@@ -1,3 +1,4 @@
+
 ---
 search: false
 ---
@@ -22,6 +23,28 @@ search: false
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
+}
+
+// Fourth layout - 4 images per row
+.page__content figure.fourth {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.page__content figure.fourth > a,
+.page__content figure.fourth > img {
+  flex: 0 1 auto;
+  max-width: 23%;
+}
+
+
+.page__content figure.fourth img {
+  height: 50px !important;
+  width: auto !important;
+  max-width: 60px !important;
+  object-fit: contain !important;
 }
 
 .page__content figure.half > a,

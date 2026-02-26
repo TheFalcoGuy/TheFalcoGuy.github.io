@@ -17,6 +17,24 @@ superemu_gallery:
     alt: "SuperEMU 3"
   - image_path: /assets/images/ICRA_2024/SuperEMU_4.JPG
     alt: "SuperEMU 4"
+supine_high_gallery:
+  - image_path: /assets/images/ICRA_2024/Supine_High_1.png
+    alt: "Supine High 1"
+  - image_path: /assets/images/ICRA_2024/Supine_High_2.png
+    alt: "Supine High 2"
+  - image_path: /assets/images/ICRA_2024/Supine_High_3.png
+    alt: "Supine High 3"
+  - image_path: /assets/images/ICRA_2024/Supine_High_4.png
+    alt: "Supine High 4"
+prone_gallery:
+  - image_path: /assets/images/ICRA_2024/Prone_1.png
+    alt: "Prone 1"
+  - image_path: /assets/images/ICRA_2024/Prone_2.png
+    alt: "Prone 2"
+  - image_path: /assets/images/ICRA_2024/Prone_3.png
+    alt: "Prone 3"
+  - image_path: /assets/images/ICRA_2024/Prone_4.png
+    alt: "Prone 4"
 ---
 
 ## Overview
@@ -71,7 +89,11 @@ From these experiments, the following key observations were made:
 
 1. When unconstrained, humans take a variety of paths to stand up. The type of trajectory taken is largely random and cannot be accurately predicted/anticipated. However, between all human subjects, priority was given to efficiency over stability.
 
+{% include gallery id="supine_high_gallery" layout="fourth" caption="Supine-based recoveries have high variability" %}
+
 2. When partially constrained, the sample population began to show signs of adopting a more uniform trajectory to standing up. Particularly, their motions remained largely within the sagittal plane, prioritizing stability over efficiency.
+
+{% include gallery id="prone_gallery" layout="fourth" caption="Prone-based recoveries between unconstrained and partially-constrained subject" %}
 
 3. When wearing a space suit, the sample population all took the same uniform trajectory that was noticed during the partially constrained case, showing that astronauts, under unique loads from the space suit, take a conservative and predictable trajectory.
 
