@@ -77,6 +77,16 @@ search: false
   object-fit: contain !important;
 }
 
+// SuperEMU Test gallery images - larger size 
+.page__content figure.half img[alt="SuperEMU Test 1"],
+.page__content figure.half img[alt="SuperEMU Test 2"] {
+  max-height: 300px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+
 // Concept gallery images on main page - larger size
 .page__content figure.third img[alt="Astronaut Safety Concept"],
 .page__content figure.third img[alt="Astronaut Productivity Concept"],

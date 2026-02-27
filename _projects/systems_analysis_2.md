@@ -35,6 +35,11 @@ prone_gallery:
     alt: "Prone 3"
   - image_path: /assets/images/ICRA_2024/Prone_4.png
     alt: "Prone 4"
+SuperEMU_Test_gallery:
+  - image_path: /assets/images/ICRA_2024/SuperEMU_SuperLimbs_2.png
+    alt: "SuperEMU Test 1"
+  - image_path: /assets/images/ICRA_2024/SuperEMU_SuperLimbs.png
+    alt: "SuperEMU Test 2"
 ---
 
 ## Overview
@@ -100,6 +105,8 @@ From these experiments, the following key observations were made:
 To determine SuperLimbs' capabilities in assisting an astronaut with a post-fall recovery, a Universal Robots UR10e manipulator was utilized. The base of the robot was bolted to the ground while the end-effector was bolted to the bottom of the backpack assembly of the SuperEMU. The UR5e was controlled using a variable impedance controller.
 
 Human subjects were asked to stand in the SuperEMU from a fallen position, but were provided assistance from the UR10e. From these trials, we found a marginal improvement in the assistance from the UR10e, leading us to determine a dedicated SuperLimbs system is required to fully evaluate.
+
+{% include gallery id="SuperEMU_Test_gallery" layout="half" %}
 
 ## Next Steps
 
