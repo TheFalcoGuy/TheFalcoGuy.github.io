@@ -87,15 +87,15 @@ A preliminary human experiment was conducted that profiled the trajectories take
 
 From these experiments, the following key observations were made:
 
-1. When unconstrained, humans take a variety of paths to stand up. The type of trajectory taken is largely random and cannot be accurately predicted/anticipated. However, between all human subjects, priority was given to efficiency over stability.
+- When unconstrained, humans take a variety of paths to stand up. The type of trajectory taken is largely random and cannot be accurately predicted/anticipated. However, between all human subjects, priority was given to efficiency over stability.
 
-{% include gallery id="supine_high_gallery" layout="fourth" caption="Supine-based recoveries have high variability" %}
+{% include gallery id="supine_high_gallery" layout="fourth" %}
 
-2. When partially constrained, the sample population began to show signs of adopting a more uniform trajectory to standing up. Particularly, their motions remained largely within the sagittal plane, prioritizing stability over efficiency.
+- When partially constrained, the sample population began to show signs of adopting a more uniform trajectory to standing up. Particularly, their motions remained largely within the sagittal plane, prioritizing stability over efficiency.
 
-{% include gallery id="prone_gallery" layout="fourth" caption="Prone-based recoveries between unconstrained and partially-constrained subject" %}
+{% include gallery id="prone_gallery" layout="fourth" %}
 
-3. When wearing a space suit, the sample population all took the same uniform trajectory that was noticed during the partially constrained case, showing that astronauts, under unique loads from the space suit, take a conservative and predictable trajectory.
+- When wearing a space suit, the sample population all took the same uniform trajectory that was noticed during the partially constrained case, showing that astronauts, under unique loads from the space suit, take a conservative and predictable trajectory.
 
 To determine SuperLimbs' capabilities in assisting an astronaut with a post-fall recovery, a Universal Robots UR10e manipulator was utilized. The base of the robot was bolted to the ground while the end-effector was bolted to the bottom of the backpack assembly of the SuperEMU. The UR5e was controlled using a variable impedance controller.
 
