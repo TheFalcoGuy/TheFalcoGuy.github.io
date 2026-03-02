@@ -344,3 +344,83 @@ details summary::-webkit-details-marker {
   margin-bottom: 0.25rem;
   font-weight: 600;
 }
+
+/* ========================= */
+/* Mobile-only adjustments   */
+/* ========================= */
+@media only screen and (max-width: 600px) {
+  /* Gallery images: stack vertically, full width */
+  .page__content figure.half,
+  .page__content figure.fourth,
+  .page__content figure.third {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 auto 1.5em auto !important;
+  }
+
+  .page__content figure.half img,
+  .page__content figure.fourth img,
+  .page__content figure.third img {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: 200px !important;
+    object-fit: contain !important;
+    margin-bottom: 0.5em;
+  }
+
+  .page__content figure.fourth > a,
+  .page__content figure.fourth > img,
+  .page__content figure.half > a,
+  .page__content figure.half > img {
+    flex: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    display: block !important;
+    margin: 0 auto 0.5em auto !important;
+  }
+
+  /* Experience block: stack logo and details */
+  .experience-block {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 0.5rem !important;
+  }
+  .experience-logo {
+    width: 48px !important;
+    height: 48px !important;
+    margin-bottom: 0.5rem !important;
+  }
+  .experience-logo img {
+    max-width: 48px !important;
+    max-height: 48px !important;
+  }
+
+  /* Timeline: remove left padding, stack content */
+  .project-timeline {
+    padding-left: 0 !important;
+    max-width: 100% !important;
+  }
+  .project-timeline::before {
+    left: 0.5em !important;
+  }
+  .timeline-item {
+    padding-left: 1.5em !important;
+    margin-bottom: 1.2rem !important;
+  }
+  .timeline-item::before {
+    left: -1.2em !important;
+    top: 0.5em !important;
+    width: 12px !important;
+    height: 12px !important;
+  }
+  .timeline-item:not(:last-child)::after {
+    left: -1em !important;
+    bottom: -1em !important;
+    font-size: 12px !important;
+  }
+  .timeline-content {
+    padding: 0.75rem !important;
+    font-size: 0.95rem !important;
+  }
+}
