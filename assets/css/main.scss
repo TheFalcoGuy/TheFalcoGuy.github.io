@@ -345,82 +345,257 @@ details summary::-webkit-details-marker {
   font-weight: 600;
 }
 
-/* ========================= */
-/* Mobile-only adjustments   */
-/* ========================= */
-@media only screen and (max-width: 600px) {
-  /* Gallery images: stack vertically, full width */
-  .page__content figure.half,
-  .page__content figure.fourth,
-  .page__content figure.third {
-    display: block !important;
+/* ========================================
+   MOBILE RESPONSIVE FIXES
+   ======================================== */
+
+/* Global: prevent any element from overflowing the viewport */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Make all images responsive by default */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Make all iframes and videos responsive */
+iframe,
+video,
+embed,
+object {
+  max-width: 100% !important;
+  height: auto;
+}
+
+/* Responsive iframe wrapper - maintain 16:9 aspect ratio */
+.page__content iframe,
+.page__content video {
+  max-width: 100% !important;
+}
+
+/* Target centered divs containing iframes (the inline-style wrappers) */
+div[style*="text-align: center"] iframe,
+div[style*="text-align: center"] video {
+  max-width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+}
+
+@media screen and (max-width: 768px) {
+
+  /* ---- IFRAMES & VIDEOS ---- */
+  iframe[width="560"],
+  video[width="560"] {
     width: 100% !important;
-    margin: 0 auto 1.5em auto !important;
+    max-width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 16 / 9;
   }
 
-  .page__content figure.half img,
-  .page__content figure.fourth img,
-  .page__content figure.third img {
+  /* ---- IMAGES ---- */
+  .page__content img {
     max-width: 100% !important;
-    width: 100% !important;
     height: auto !important;
+  }
+
+  /* Reduce oversized gallery images on mobile */
+  .page__content figure.third img,
+  .page__content figure.half img {
+    max-height: 120px !important;
+    max-width: 100% !important;
+  }
+
+  /* Concept gallery images - reduce on mobile */
+  .page__content figure.third img[alt="Astronaut Safety Concept"],
+  .page__content figure.third img[alt="Astronaut Productivity Concept"],
+  .page__content figure.third img[alt="Astronaut Energetics Concept"] {
+    max-height: 120px !important;
+  }
+
+  /* SuperEMU images - reduce on mobile */
+  .page__content figure.half img[alt="SuperEMU 1"],
+  .page__content figure.half img[alt="SuperEMU 2"],
+  .page__content figure.half img[alt="SuperEMU 3"],
+  .page__content figure.half img[alt="SuperEMU 4"] {
     max-height: 200px !important;
-    object-fit: contain !important;
-    margin-bottom: 0.5em;
+  }
+
+  /* Problem statement images - reduce on mobile */
+  .page__content figure.half img[alt="Exertion Graph"],
+  .page__content figure.half img[alt="Falling Article"] {
+    max-height: 250px !important;
+  }
+
+  img[alt="SuperLimbs Philosophy"] {
+    max-height: 250px !important;
+    max-width: 100% !important;
+  }
+
+  /* Logo images - reduce on mobile */
+  img[alt="JSC EA Logo"],
+  img[alt="ICRA 2023 Logo"],
+  img[alt="ICRA 2024 Logo"],
+  img[alt="ICRA 2026 Logo"],
+  img[alt="Scitech Logo"],
+  img[alt="IJRR Logo"],
+  img[alt="MIT Logo"],
+  img[alt="JPL Logo"],
+  img[alt="NASA Logo"],
+  img[alt="HSL Logo"],
+  img[alt="d-Lab Logo"] {
+    max-height: 80px !important;
+  }
+
+  /* ---- GALLERY LAYOUTS ---- */
+  /* Stack third layout on mobile - one image per row */
+  .page__content figure.third {
+    display: flex;
+    flex-wrap: wrap !important;
+    justify-content: center;
+  }
+
+  .page__content figure.third > a,
+  .page__content figure.third > img {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    text-align: center;
+  }
+
+  /* Half layout - stack on small screens */
+  .page__content figure.half > a,
+  .page__content figure.half > img {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* Fourth layout - 2 per row on mobile instead of 4 */
+  .page__content figure.fourth {
+    flex-wrap: wrap !important;
   }
 
   .page__content figure.fourth > a,
-  .page__content figure.fourth > img,
-  .page__content figure.half > a,
-  .page__content figure.half > img {
-    flex: none !important;
+  .page__content figure.fourth > img {
+    flex: 0 0 calc(50% - 10px) !important;
+    max-width: calc(50% - 10px) !important;
+  }
+
+  .page__content figure.fourth img {
+    height: 80px !important;
+  }
+
+  /* ---- FLEX LAYOUTS (inline-style overrides) ---- */
+  /* Override inline flex layouts to stack on mobile */
+  .page__content div[style*="display: flex"] {
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+  }
+
+  .page__content div[style*="display: flex"] > figure,
+  .page__content div[style*="display: flex"] > div {
+    flex: 0 0 100% !important;
     max-width: 100% !important;
-    width: 100% !important;
-    display: block !important;
-    margin: 0 auto 0.5em auto !important;
+    min-width: 0 !important;
   }
 
-  /* Experience block: stack logo and details */
-  .experience-block {
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    gap: 0.5rem !important;
-  }
-  .experience-logo {
-    width: 48px !important;
-    height: 48px !important;
-    margin-bottom: 0.5rem !important;
-  }
-  .experience-logo img {
-    max-width: 48px !important;
-    max-height: 48px !important;
+  .page__content div[style*="display: flex"] figure[style*="max-width: 45%"],
+  .page__content div[style*="display: flex"] figure[style*="max-width:45%"] {
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
   }
 
-  /* Timeline: remove left padding, stack content */
+  /* ---- TIMELINE ---- */
   .project-timeline {
-    padding-left: 0 !important;
-    max-width: 100% !important;
+    padding-left: 25px;
   }
+
   .project-timeline::before {
-    left: 0.5em !important;
+    left: 8px;
   }
+
   .timeline-item {
-    padding-left: 1.5em !important;
-    margin-bottom: 1.2rem !important;
+    padding-left: 20px;
   }
+
   .timeline-item::before {
-    left: -1.2em !important;
-    top: 0.5em !important;
-    width: 12px !important;
-    height: 12px !important;
+    left: -24px;
+    width: 12px;
+    height: 12px;
   }
+
   .timeline-item:not(:last-child)::after {
-    left: -1em !important;
-    bottom: -1em !important;
-    font-size: 12px !important;
+    left: -22px;
+    font-size: 11px;
   }
+
   .timeline-content {
-    padding: 0.75rem !important;
-    font-size: 0.95rem !important;
+    padding: 0.85rem;
+  }
+
+  .timeline-content h3 {
+    font-size: 0.95rem;
+  }
+
+  .timeline-content p {
+    font-size: 0.85rem;
+  }
+
+  /* ---- TEAM LAYOUT ---- */
+  .team-member {
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+  }
+
+  .team-photo {
+    width: 120px !important;
+    height: 120px !important;
+  }
+
+  .team-info {
+    text-align: center;
+    width: 100%;
+  }
+
+  /* ---- EXPERIENCE BLOCK ---- */
+  .experience-block {
+    flex-wrap: wrap;
+  }
+
+  .experience-logo {
+    width: 45px;
+    height: 45px;
+  }
+
+  .experience-logo img {
+    max-width: 45px;
+    max-height: 45px;
+  }
+
+  /* ---- HEADER / BANNER ---- */
+  .page__hero--overlay .page__title {
+    font-size: 1.3rem;
+  }
+
+  .page__hero--overlay .page__lead {
+    font-size: 0.95rem;
+  }
+
+  /* ---- GENERAL SPACING ---- */
+  .page__content {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* Prevent horizontal scroll from any element */
+  .page__content * {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Exclude flex children from the universal max-width rule where needed */
+  .page__content figure > a,
+  .page__content figure > img {
+    box-sizing: border-box;
   }
 }
