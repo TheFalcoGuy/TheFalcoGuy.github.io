@@ -27,9 +27,11 @@ Based on the optimal design, an Earth-based prototype is built in-house at the N
 
 {% include gallery id="publication_gallery" layout="half" class="align-center" %}
 
-1. **Ballesteros, E.**, Rogers, P., Jenkins, J., Carpenter, K., & Asada, H. H., "Design of Supernumerary Robotic Limbs for the Augmentation of Astronauts performing Partial-Gravity Extra-Vehicular Activities (EVAs)," *International Journal of Robotics Research (IJRR)*, 2026.
+1. **Ballesteros, E.**, Rogers, P., Jenkins, J., Carpenter, K., & Asada, H. H., "Design of Supernumerary Robotic Limbs for the Augmentation of Astronauts performing Partial-Gravity Extra-Vehicular Activities (EVAs)," *International Journal of Robotics Research (IJRR)*, 2026. [[PDF]](/assets/papers/IJRR_2026.pdf)
 
 ## Conference Poster
+
+<iframe src="/assets/images/IJRR_2025/MERE_Poster.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 ## Video Demo
 

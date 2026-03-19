@@ -14,7 +14,7 @@ permalink: /publications/
 
 ## Journal Articles
 
-1. **Ballesteros, E.**, Rogers, P., Jenkins, J., Carpenter, K., & Asada, H. H., "Design of Supernumerary Robotic Limbs for the Augmentation of Astronauts performing Partial-Gravity Extra-Vehicular Activities (EVAs)," *International Journal of Robotics Research (IJRR)*, 2026.
+1. **Ballesteros, E.**, Rogers, P., Jenkins, J., Carpenter, K., & Asada, H. H., "Design of Supernumerary Robotic Limbs for the Augmentation of Astronauts performing Partial-Gravity Extra-Vehicular Activities (EVAs)," *International Journal of Robotics Research (IJRR)*, 2026. [[PDF]](/assets/papers/IJRR_2026.pdf)
 
 ## Workshop Papers
 
